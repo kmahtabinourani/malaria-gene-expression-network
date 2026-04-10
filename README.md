@@ -79,7 +79,11 @@ This script performs:
 
 Below is an example GRN constructed from malaria scRNA-seq data:
 
+<br>
+
 ![Gene Regulatory Network](results/GRN%20malaria.png)
+
+<br>
 
 ---
 
