@@ -38,9 +38,9 @@ The analysis follows a two-stage systems biology pipeline:
 ---
 
 ## 📂 Repository Structure
-code/ → MATLAB scripts for network analysis
-data/ → Input malaria gene expression dataset
-results/ → Generated figures and output tables
+-code/ → MATLAB scripts for network analysis
+-data/ → Input malaria gene expression dataset
+-results/ → Generated figures and output tables
 
 ---
 
@@ -79,7 +79,7 @@ This script performs:
 
 Below is an example GRN constructed from malaria scRNA-seq data:
 
-![Gene Regulatory Network](results/Gene%20regulatory%20network .png)
+![Gene Regulatory Network](results/GRN_malaria.png)
 
 ---
 
