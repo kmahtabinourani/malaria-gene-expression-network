@@ -1,0 +1,1354 @@
+CELL_ID,PC_1,PC_2,PC_3,UMAP_1,UMAP_2,UMAP_3,CLUSTER,STAGE_LR,STAGE_HR,STRAIN,DAY,HOST
+X32706_8_5_sorted.bam,NA,NA,NA,-4.829432157,-0.963676996,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_6_sorted.bam,NA,NA,NA,-9.477379945,4.797096186,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_7_sorted.bam,NA,NA,NA,0.568862649,-13.03964526,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_8_sorted.bam,NA,NA,NA,0.988353076,-13.62632472,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_9_sorted.bam,NA,NA,NA,-10.27857128,1.373159819,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_10_sorted.bam,NA,NA,NA,-9.811879305,-1.898084469,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_11_sorted.bam,NA,NA,NA,6.159830424,-17.01321418,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_12_sorted.bam,NA,NA,NA,7.996303412,-16.09210212,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_13_sorted.bam,NA,NA,NA,3.110192629,-9.184277601,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_14_sorted.bam,NA,NA,NA,7.364097926,-12.66947181,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_15_sorted.bam,NA,NA,NA,-10.60105148,3.96930831,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_16_sorted.bam,NA,NA,NA,-10.26806655,4.098258906,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_17_sorted.bam,NA,NA,NA,6.834850642,-11.59636504,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_18_sorted.bam,NA,NA,NA,2.009192976,-9.346095152,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_19_sorted.bam,NA,NA,NA,-5.364123014,-1.559082932,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_20_sorted.bam,NA,NA,NA,-13.26033607,-0.303592748,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_21_sorted.bam,NA,NA,NA,3.331373783,-10.97485358,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_23_sorted.bam,NA,NA,NA,-8.602945474,5.350970679,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_24_sorted.bam,NA,NA,NA,-4.702824262,-3.633637972,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_25_sorted.bam,NA,NA,NA,-9.365877298,-2.129615224,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_26_sorted.bam,NA,NA,NA,8.637375685,-12.79926116,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_27_sorted.bam,NA,NA,NA,-9.169911531,1.953241282,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_28_sorted.bam,NA,NA,NA,-5.271622804,2.306354933,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_29_sorted.bam,NA,NA,NA,-15.25797572,10.31073373,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_30_sorted.bam,NA,NA,NA,6.018340441,-15.96627624,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_31_sorted.bam,NA,NA,NA,-10.21740451,-3.345248825,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_32_sorted.bam,NA,NA,NA,-10.73010173,6.290696078,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_33_sorted.bam,NA,NA,NA,2.586023542,-14.58033854,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_34_sorted.bam,NA,NA,NA,1.32818403,-15.71171767,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_35_sorted.bam,NA,NA,NA,-16.31146922,-0.503656692,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_36_sorted.bam,NA,NA,NA,-10.61802307,5.450921469,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_37_sorted.bam,NA,NA,NA,2.524044725,-10.27772529,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_38_sorted.bam,NA,NA,NA,8.205635878,-16.03992564,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_39_sorted.bam,NA,NA,NA,-10.66629424,3.348193579,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_40_sorted.bam,NA,NA,NA,-13.0644857,1.028973513,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_41_sorted.bam,NA,NA,NA,-1.995974449,-3.108254738,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_42_sorted.bam,NA,NA,NA,4.544247719,-15.91733081,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_43_sorted.bam,NA,NA,NA,6.729328963,-12.26097686,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_44_sorted.bam,NA,NA,NA,-12.99102512,-2.923015899,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_45_sorted.bam,NA,NA,NA,-7.639530328,4.8277983,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_46_sorted.bam,NA,NA,NA,6.102371069,-16.05018336,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_47_sorted.bam,NA,NA,NA,7.413226458,-16.1940766,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_48_sorted.bam,NA,NA,NA,-10.87291637,4.693173819,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_49_sorted.bam,NA,NA,NA,-14.39574447,0.180891686,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_50_sorted.bam,NA,NA,NA,7.911339137,-12.03946692,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_51_sorted.bam,NA,NA,NA,6.273542735,-16.75454909,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_52_sorted.bam,NA,NA,NA,-8.630431322,3.160393172,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_53_sorted.bam,NA,NA,NA,-6.373475698,3.698170595,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_54_sorted.bam,NA,NA,NA,4.225649449,-15.34335429,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_55_sorted.bam,NA,NA,NA,5.90786204,-16.62785918,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_56_sorted.bam,NA,NA,NA,-14.10843673,4.007266932,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_57_sorted.bam,NA,NA,NA,-11.97528758,-2.384622529,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_58_sorted.bam,NA,NA,NA,8.346333357,-16.47642714,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_59_sorted.bam,NA,NA,NA,2.064435693,-14.07018001,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_60_sorted.bam,NA,NA,NA,-11.6865417,0.515312128,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_61_sorted.bam,NA,NA,NA,-6.625957635,-0.829030699,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_62_sorted.bam,NA,NA,NA,3.293850752,-11.85636622,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_63_sorted.bam,NA,NA,NA,2.470979663,-14.0954333,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_64_sorted.bam,NA,NA,NA,-15.03367153,-2.009399808,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_65_sorted.bam,NA,NA,NA,-9.003251222,6.882650309,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_66_sorted.bam,NA,NA,NA,-15.5313026,9.583718233,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_67_sorted.bam,NA,NA,NA,-14.78475681,10.39508718,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_68_sorted.bam,NA,NA,NA,-14.46282783,0.785925322,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_69_sorted.bam,NA,NA,NA,-12.48676315,9.005291872,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_70_sorted.bam,NA,NA,NA,-6.75770965,-6.750306673,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_71_sorted.bam,NA,NA,NA,4.029158923,-16.76741321,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_72_sorted.bam,NA,NA,NA,6.313009592,-15.29492671,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_73_sorted.bam,NA,NA,NA,-5.956319002,-5.761087007,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_74_sorted.bam,NA,NA,NA,-9.305665163,0.496752196,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_75_sorted.bam,NA,NA,NA,0.01235077,-11.25556952,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_77_sorted.bam,NA,NA,NA,-11.06698337,7.647021227,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_78_sorted.bam,NA,NA,NA,-14.72100368,-0.322675295,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_79_sorted.bam,NA,NA,NA,7.36813912,-14.3210078,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_80_sorted.bam,NA,NA,NA,-1.230805305,-15.70937545,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_81_sorted.bam,NA,NA,NA,-9.523587373,3.762158327,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_82_sorted.bam,NA,NA,NA,-15.04645458,-1.294567055,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_83_sorted.bam,NA,NA,NA,-15.96242824,11.37298959,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_84_sorted.bam,NA,NA,NA,-0.398135689,-16.49303538,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_85_sorted.bam,NA,NA,NA,-11.71982303,-4.174056954,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_86_sorted.bam,NA,NA,NA,-15.53830448,-2.897381938,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_87_sorted.bam,NA,NA,NA,4.583205315,-11.62273223,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_88_sorted.bam,NA,NA,NA,1.354873652,-13.70160777,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_89_sorted.bam,NA,NA,NA,-10.3812162,1.070807629,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_90_sorted.bam,NA,NA,NA,-14.15234199,5.665707522,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_93_sorted.bam,NA,NA,NA,0.533932957,-16.52505309,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_94_sorted.bam,NA,NA,NA,-6.081790117,3.724104815,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_95_sorted.bam,NA,NA,NA,-13.76138225,-1.627066917,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_96_sorted.bam,NA,NA,NA,5.967867705,-15.3679238,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_98_sorted.bam,NA,NA,NA,-0.779833225,-14.90357501,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_99_sorted.bam,NA,NA,NA,-13.49266258,0.230058365,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_100_sorted.bam,NA,NA,NA,-13.46123805,-1.626910157,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_101_sorted.bam,NA,NA,NA,3.776360604,-13.5340348,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_103_sorted.bam,NA,NA,NA,-9.332048563,2.620101385,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_104_sorted.bam,NA,NA,NA,-5.822764066,-3.375569589,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_105_sorted.bam,NA,NA,NA,0.195526692,-15.41767413,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_106_sorted.bam,NA,NA,NA,1.229575577,-12.05724055,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_107_sorted.bam,NA,NA,NA,-9.565094141,2.206520968,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_108_sorted.bam,NA,NA,NA,-15.74343219,-0.220285244,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_109_sorted.bam,NA,NA,NA,-0.057888177,-15.46982581,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_110_sorted.bam,NA,NA,NA,0.375269028,-12.57202346,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_111_sorted.bam,NA,NA,NA,-11.97195735,0.976746016,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_112_sorted.bam,NA,NA,NA,-9.551327852,0.9984793,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_113_sorted.bam,NA,NA,NA,-0.128434805,-14.86202342,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_114_sorted.bam,NA,NA,NA,7.56226525,-14.63373477,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_115_sorted.bam,NA,NA,NA,-11.16149154,-2.094390846,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_116_sorted.bam,NA,NA,NA,-15.40422931,0.519706183,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_117_sorted.bam,NA,NA,NA,-7.800414232,-8.458846159,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_118_sorted.bam,NA,NA,NA,7.289606902,-11.46637351,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_119_sorted.bam,NA,NA,NA,-6.115529207,1.214163714,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_120_sorted.bam,NA,NA,NA,-3.508752493,-3.627406783,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_121_sorted.bam,NA,NA,NA,-5.781712202,-0.089329548,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_122_sorted.bam,NA,NA,NA,4.035145613,-12.63465888,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_123_sorted.bam,NA,NA,NA,7.514407965,-13.79831321,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_124_sorted.bam,NA,NA,NA,-12.7148458,2.177107744,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_125_sorted.bam,NA,NA,NA,-11.53611389,7.680936747,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_126_sorted.bam,NA,NA,NA,4.72678599,-17.00202853,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_127_sorted.bam,NA,NA,NA,0.222977969,-11.67156131,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_128_sorted.bam,NA,NA,NA,-11.73727622,7.425753527,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_130_sorted.bam,NA,NA,NA,1.438032287,-16.54672152,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_131_sorted.bam,NA,NA,NA,6.147890898,-13.5413676,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_133_sorted.bam,NA,NA,NA,-9.127434877,-0.926132626,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_134_sorted.bam,NA,NA,NA,-13.99411884,11.91932576,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_135_sorted.bam,NA,NA,NA,7.746123167,-13.668768,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_136_sorted.bam,NA,NA,NA,-13.69380298,-2.859365619,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_137_sorted.bam,NA,NA,NA,-7.271314767,-7.851439066,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_138_sorted.bam,NA,NA,NA,-1.470719246,-16.84072215,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_139_sorted.bam,NA,NA,NA,-14.52849975,11.49528115,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_140_sorted.bam,NA,NA,NA,-15.2107841,-3.376888282,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_141_sorted.bam,NA,NA,NA,-13.94976249,-0.711351223,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_142_sorted.bam,NA,NA,NA,8.089594695,-12.6775542,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_143_sorted.bam,NA,NA,NA,2.405387255,-11.7552634,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_144_sorted.bam,NA,NA,NA,-7.982038644,-0.404266901,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_145_sorted.bam,NA,NA,NA,-11.19791427,-3.451348848,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_146_sorted.bam,NA,NA,NA,0.260393831,-13.91761119,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_148_sorted.bam,NA,NA,NA,-10.14021697,2.597517901,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_149_sorted.bam,NA,NA,NA,-13.22699752,2.639131956,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_150_sorted.bam,NA,NA,NA,-15.04730525,-1.647326178,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_151_sorted.bam,NA,NA,NA,-1.130567459,-16.8270169,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_153_sorted.bam,NA,NA,NA,-6.77894893,-2.465224165,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_154_sorted.bam,NA,NA,NA,-10.5261375,1.337601834,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_155_sorted.bam,NA,NA,NA,2.750811192,-11.38331229,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_156_sorted.bam,NA,NA,NA,3.838970515,-17.0589133,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_157_sorted.bam,NA,NA,NA,-11.27605358,4.906234198,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_158_sorted.bam,NA,NA,NA,-2.518639949,-2.096818633,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_159_sorted.bam,NA,NA,NA,6.002064558,-14.79323203,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_161_sorted.bam,NA,NA,NA,-7.585386423,-2.324577845,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_162_sorted.bam,NA,NA,NA,-5.865122465,-3.154094584,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_163_sorted.bam,NA,NA,NA,-0.66514161,-14.75737292,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_164_sorted.bam,NA,NA,NA,7.822507712,-11.92165858,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_165_sorted.bam,NA,NA,NA,-13.97815051,5.324942999,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_166_sorted.bam,NA,NA,NA,-6.989209322,4.667808943,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_167_sorted.bam,NA,NA,NA,2.622233006,-9.535783834,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_168_sorted.bam,NA,NA,NA,3.166544172,-16.78411681,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_169_sorted.bam,NA,NA,NA,-16.30177989,-0.881182856,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_170_sorted.bam,NA,NA,NA,-5.563823846,3.172104292,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_171_sorted.bam,NA,NA,NA,4.363506647,-13.48343093,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_172_sorted.bam,NA,NA,NA,2.675802561,-10.98615748,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_173_sorted.bam,NA,NA,NA,-13.37142864,0.977278643,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_174_sorted.bam,NA,NA,NA,-4.056735662,0.58171504,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_175_sorted.bam,NA,NA,NA,0.603940519,-14.61248977,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_176_sorted.bam,NA,NA,NA,3.1101186,-13.03818519,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_177_sorted.bam,NA,NA,NA,1.901399466,-12.16966636,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_179_sorted.bam,NA,NA,NA,-9.01150432,1.329538517,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_180_sorted.bam,NA,NA,NA,-8.151921419,9.072049074,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_181_sorted.bam,NA,NA,NA,-0.604903129,-15.83734424,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_182_sorted.bam,NA,NA,NA,-8.974844125,7.10587781,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_183_sorted.bam,NA,NA,NA,-14.34812656,4.07929843,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_184_sorted.bam,NA,NA,NA,0.242176505,-13.27949435,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_185_sorted.bam,NA,NA,NA,1.747096511,-15.06670958,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_186_sorted.bam,NA,NA,NA,5.404932352,-16.58890731,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_187_sorted.bam,NA,NA,NA,-13.16347518,-0.841188855,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_188_sorted.bam,NA,NA,NA,-12.74993625,5.313579016,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_189_sorted.bam,NA,NA,NA,5.900491568,-17.95735366,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_190_sorted.bam,NA,NA,NA,-8.381709245,1.659741335,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_191_sorted.bam,NA,NA,NA,-14.07735935,3.200791292,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_192_sorted.bam,NA,NA,NA,6.243028971,-16.34751136,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_194_sorted.bam,NA,NA,NA,-9.184210924,3.88692277,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_196_sorted.bam,NA,NA,NA,-0.30588713,-12.19266421,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_198_sorted.bam,NA,NA,NA,-9.339149622,8.567655497,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_199_sorted.bam,NA,NA,NA,-8.041422037,-1.503196723,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_200_sorted.bam,NA,NA,NA,6.745573851,-15.65663821,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_202_sorted.bam,NA,NA,NA,-9.977928308,5.93816083,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_203_sorted.bam,NA,NA,NA,-8.843743471,4.426710062,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_204_sorted.bam,NA,NA,NA,1.385874758,-14.68733699,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_205_sorted.bam,NA,NA,NA,-12.06363407,3.30713027,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_207_sorted.bam,NA,NA,NA,-11.69955936,4.245266371,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_208_sorted.bam,NA,NA,NA,1.042692619,-15.96848781,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_209_sorted.bam,NA,NA,NA,-11.22886482,3.289347582,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_210_sorted.bam,NA,NA,NA,2.305174562,-14.93645961,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_211_sorted.bam,NA,NA,NA,-10.99259963,-2.375312317,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_213_sorted.bam,NA,NA,NA,-1.943552402,-17.38337523,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_214_sorted.bam,NA,NA,NA,-3.894604353,0.006965332,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_215_sorted.bam,NA,NA,NA,7.246661517,-14.19620902,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_216_sorted.bam,NA,NA,NA,-6.169968275,-1.77610702,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_217_sorted.bam,NA,NA,NA,-7.151499895,0.778656416,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_218_sorted.bam,NA,NA,NA,-0.754180101,-4.265905566,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_219_sorted.bam,NA,NA,NA,-13.74694362,1.929439478,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_221_sorted.bam,NA,NA,NA,-14.10771194,1.100430422,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_222_sorted.bam,NA,NA,NA,-9.181697038,-1.528409846,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_223_sorted.bam,NA,NA,NA,-6.813960222,-0.250183887,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_224_sorted.bam,NA,NA,NA,-1.300915626,-17.47827346,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_225_sorted.bam,NA,NA,NA,-3.583050874,0.651179486,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_226_sorted.bam,NA,NA,NA,2.502583834,-12.1026612,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_227_sorted.bam,NA,NA,NA,-5.209358362,-2.051246203,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_228_sorted.bam,NA,NA,NA,3.300723168,-13.04305942,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_229_sorted.bam,NA,NA,NA,-8.712731508,6.660602503,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_231_sorted.bam,NA,NA,NA,-9.999979166,0.731193953,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_232_sorted.bam,NA,NA,NA,6.41172156,-16.2684489,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_233_sorted.bam,NA,NA,NA,-11.50546375,2.398681097,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_234_sorted.bam,NA,NA,NA,-12.88207927,7.200202875,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_235_sorted.bam,NA,NA,NA,8.303577753,-12.27166373,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_236_sorted.bam,NA,NA,NA,5.622032496,-17.87782485,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_237_sorted.bam,NA,NA,NA,-14.38696685,8.378288203,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_238_sorted.bam,NA,NA,NA,-11.61005416,-3.350043602,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_239_sorted.bam,NA,NA,NA,1.707773688,-12.31696135,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_240_sorted.bam,NA,NA,NA,1.419135871,-16.43610007,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_242_sorted.bam,NA,NA,NA,-10.5013248,4.732182436,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_243_sorted.bam,NA,NA,NA,-9.7967464,4.864303522,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_244_sorted.bam,NA,NA,NA,1.412636424,-14.83732421,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_245_sorted.bam,NA,NA,NA,-11.81508079,1.885472708,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_246_sorted.bam,NA,NA,NA,-12.30628124,-1.432568438,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_247_sorted.bam,NA,NA,NA,-1.9166235,-17.18000609,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_248_sorted.bam,NA,NA,NA,8.706049773,-15.79453475,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_249_sorted.bam,NA,NA,NA,-7.186010507,-7.218375273,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_250_sorted.bam,NA,NA,NA,-9.952930597,-2.041393376,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_251_sorted.bam,NA,NA,NA,-11.42000499,0.219599419,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_252_sorted.bam,NA,NA,NA,6.175292345,-17.4054795,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_253_sorted.bam,NA,NA,NA,-14.59026256,10.51137631,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_254_sorted.bam,NA,NA,NA,-9.915603784,6.541969233,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_255_sorted.bam,NA,NA,NA,-15.30797115,11.22216599,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_256_sorted.bam,NA,NA,NA,-15.26327815,9.805361681,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_257_sorted.bam,NA,NA,NA,-14.37948337,0.482377224,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_258_sorted.bam,NA,NA,NA,-9.875192789,0.126237803,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_259_sorted.bam,NA,NA,NA,0.660964581,-16.58057601,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_260_sorted.bam,NA,NA,NA,3.381111952,-16.46178061,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_261_sorted.bam,NA,NA,NA,-1.742159275,-17.12280566,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_262_sorted.bam,NA,NA,NA,-12.67341342,0.983278685,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_263_sorted.bam,NA,NA,NA,0.16899285,-2.840712316,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_264_sorted.bam,NA,NA,NA,7.963453623,-15.23605449,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_265_sorted.bam,NA,NA,NA,1.772317561,-10.58766753,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_266_sorted.bam,NA,NA,NA,-14.75834384,-0.73877079,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_268_sorted.bam,NA,NA,NA,-15.1531612,11.52532666,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_269_sorted.bam,NA,NA,NA,3.667327496,-11.75115401,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_270_sorted.bam,NA,NA,NA,-5.860864309,-0.153270311,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_271_sorted.bam,NA,NA,NA,-3.744890836,-0.007215566,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_272_sorted.bam,NA,NA,NA,2.064406725,-10.4971028,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_273_sorted.bam,NA,NA,NA,0.81815249,-14.43634135,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_274_sorted.bam,NA,NA,NA,-13.06023136,3.127577238,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_275_sorted.bam,NA,NA,NA,-12.43439975,3.278774672,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_276_sorted.bam,NA,NA,NA,7.261727187,-15.23804671,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_277_sorted.bam,NA,NA,NA,7.879498335,-11.27101714,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_278_sorted.bam,NA,NA,NA,-0.591319707,-17.03858478,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_279_sorted.bam,NA,NA,NA,-12.44433704,10.46066087,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_280_sorted.bam,NA,NA,NA,-14.98555103,-2.387595914,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_281_sorted.bam,NA,NA,NA,3.420822474,-9.683925695,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_282_sorted.bam,NA,NA,NA,-14.59400001,-1.238515563,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_283_sorted.bam,NA,NA,NA,-7.132337717,-3.778716869,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_285_sorted.bam,NA,NA,NA,8.574887129,-13.19900043,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_286_sorted.bam,NA,NA,NA,-11.12448802,8.633945399,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_287_sorted.bam,NA,NA,NA,-12.81914726,4.762187414,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_288_sorted.bam,NA,NA,NA,7.46576676,-12.92266852,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_289_sorted.bam,NA,NA,NA,-9.803203729,-1.730020768,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_290_sorted.bam,NA,NA,NA,8.047809454,-16.19283874,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_291_sorted.bam,NA,NA,NA,-7.103864816,2.521446638,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_292_sorted.bam,NA,NA,NA,-0.236473349,-17.1689244,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_293_sorted.bam,NA,NA,NA,-10.96569362,-4.146076507,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_294_sorted.bam,NA,NA,NA,0.788345846,-15.04097373,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_295_sorted.bam,NA,NA,NA,-11.31449142,8.35626977,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_296_sorted.bam,NA,NA,NA,-15.49103847,10.83890908,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_297_sorted.bam,NA,NA,NA,-5.096008924,-1.486319906,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_299_sorted.bam,NA,NA,NA,-12.36903491,1.051602535,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_301_sorted.bam,NA,NA,NA,-10.23851409,-2.430038938,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_302_sorted.bam,NA,NA,NA,2.792176458,-16.64752109,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_303_sorted.bam,NA,NA,NA,-7.202932504,4.542756491,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_304_sorted.bam,NA,NA,NA,0.909343156,-11.43665797,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_305_sorted.bam,NA,NA,NA,0.897575917,-13.75878531,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_306_sorted.bam,NA,NA,NA,-12.54091373,-1.170384593,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_307_sorted.bam,NA,NA,NA,1.77008802,-9.969286985,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_308_sorted.bam,NA,NA,NA,-12.13759055,-1.870726413,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_309_sorted.bam,NA,NA,NA,-9.122006563,10.16618531,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_310_sorted.bam,NA,NA,NA,5.539277407,-17.55689723,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_311_sorted.bam,NA,NA,NA,-6.950956491,2.803090029,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_312_sorted.bam,NA,NA,NA,3.576564642,-14.49073512,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_313_sorted.bam,NA,NA,NA,2.437560889,-16.52006919,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_314_sorted.bam,NA,NA,NA,-10.96353069,-1.532124765,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_315_sorted.bam,NA,NA,NA,-14.38103214,3.792168074,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_316_sorted.bam,NA,NA,NA,3.510409924,-13.66302115,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_317_sorted.bam,NA,NA,NA,-14.12482181,3.058420592,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_318_sorted.bam,NA,NA,NA,-4.655324606,-4.098111934,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_319_sorted.bam,NA,NA,NA,8.263653132,-13.02638347,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_320_sorted.bam,NA,NA,NA,-15.2719585,11.00534528,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_321_sorted.bam,NA,NA,NA,-8.391063837,-5.226291008,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_322_sorted.bam,NA,NA,NA,-10.35860839,-1.198098368,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_323_sorted.bam,NA,NA,NA,0.539787206,-13.18951137,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_324_sorted.bam,NA,NA,NA,1.942753884,-16.00812823,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_325_sorted.bam,NA,NA,NA,-16.25813785,0.301599913,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_326_sorted.bam,NA,NA,NA,-2.757870344,-3.661846347,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_328_sorted.bam,NA,NA,NA,4.179715248,-12.84438998,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_329_sorted.bam,NA,NA,NA,-5.660672334,-5.059670276,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_330_sorted.bam,NA,NA,NA,-5.64498916,2.11469882,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_331_sorted.bam,NA,NA,NA,8.062658163,-13.85530478,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_332_sorted.bam,NA,NA,NA,3.179515454,-14.57969005,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_333_sorted.bam,NA,NA,NA,-3.798931268,-3.293925769,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_334_sorted.bam,NA,NA,NA,-5.466747907,0.110524349,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_335_sorted.bam,NA,NA,NA,-1.358729271,-16.17433269,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_337_sorted.bam,NA,NA,NA,0.082295987,-3.203831918,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_338_sorted.bam,NA,NA,NA,-3.303596166,1.910131388,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_339_sorted.bam,NA,NA,NA,4.219832274,-11.96028335,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_340_sorted.bam,NA,NA,NA,2.811417791,-9.775896616,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_341_sorted.bam,NA,NA,NA,2.067321929,-12.04515273,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_343_sorted.bam,NA,NA,NA,-0.428563264,-2.924727566,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_344_sorted.bam,NA,NA,NA,-7.266019014,0.721780472,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_346_sorted.bam,NA,NA,NA,-4.488685754,-4.877248592,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_348_sorted.bam,NA,NA,NA,8.01285443,-13.2302428,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_351_sorted.bam,NA,NA,NA,-9.897326616,-0.630702204,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_353_sorted.bam,NA,NA,NA,5.900132033,-13.77172191,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_354_sorted.bam,NA,NA,NA,0.056954237,-3.059427686,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_355_sorted.bam,NA,NA,NA,-11.71720996,-2.581600002,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_356_sorted.bam,NA,NA,NA,0.988289627,-15.51821334,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_357_sorted.bam,NA,NA,NA,4.035953375,-14.96040351,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_358_sorted.bam,NA,NA,NA,-3.625408796,-4.698632784,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_359_sorted.bam,NA,NA,NA,-4.577019838,4.03618949,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_360_sorted.bam,NA,NA,NA,6.477056834,-13.92488009,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_362_sorted.bam,NA,NA,NA,-2.368125824,-3.240815527,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_363_sorted.bam,NA,NA,NA,-13.05418029,0.464423828,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_365_sorted.bam,NA,NA,NA,3.424190375,-16.53352077,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_366_sorted.bam,NA,NA,NA,-6.152171281,-0.331425495,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_367_sorted.bam,NA,NA,NA,-3.174943594,-2.698159642,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_368_sorted.bam,NA,NA,NA,0.735712382,-11.72543628,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_369_sorted.bam,NA,NA,NA,2.66891739,-15.99141891,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_370_sorted.bam,NA,NA,NA,-7.010862497,4.073149615,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_371_sorted.bam,NA,NA,NA,2.930976364,-15.35158164,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_372_sorted.bam,NA,NA,NA,-0.115416316,-3.198012717,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_373_sorted.bam,NA,NA,NA,-8.444160608,-0.574970073,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_374_sorted.bam,NA,NA,NA,2.370189997,-10.32641513,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_375_sorted.bam,NA,NA,NA,-6.109853891,-3.758388586,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_376_sorted.bam,NA,NA,NA,7.181650015,-14.93876178,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_377_sorted.bam,NA,NA,NA,6.797639223,-12.96666343,NA,NA,sporozoite,sporozoite (oocyst),NA,NA,mosquito
+X32706_8_378_sorted.bam,NA,NA,NA,-8.414612917,3.132786207,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_380_sorted.bam,NA,NA,NA,-10.32645145,1.18586009,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X32706_8_381_sorted.bam,NA,NA,NA,-14.05842891,4.8393225,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X32706_8_383_sorted.bam,NA,NA,NA,-4.505438951,5.54891675,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_6_sorted.BAM,NA,NA,NA,-14.94154468,1.01478427,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_8_sorted.BAM,NA,NA,NA,-12.6473476,2.461422854,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_10_sorted.BAM,NA,NA,NA,-7.550663141,-0.274286814,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_12_sorted.BAM,NA,NA,NA,-13.48188606,-1.028284616,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_16_sorted.BAM,NA,NA,NA,-11.82717529,1.44115346,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_18_sorted.BAM,NA,NA,NA,-15.02863994,1.055239134,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_20_sorted.BAM,NA,NA,NA,-7.682491449,4.077986174,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_22_sorted.BAM,NA,NA,NA,-10.49405113,2.412614756,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_24_sorted.BAM,NA,NA,NA,-7.657825616,1.406327658,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_25_sorted.BAM,NA,NA,NA,-12.38835922,5.56670516,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_31_sorted.BAM,NA,NA,NA,-7.626284746,-4.589079923,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_37_sorted.BAM,NA,NA,NA,-9.004324106,-2.791282393,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_39_sorted.BAM,NA,NA,NA,-3.126196531,-2.431300494,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_41_sorted.BAM,NA,NA,NA,-13.03567043,1.814973765,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_45_sorted.BAM,NA,NA,NA,-12.15895858,8.612710886,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_47_sorted.BAM,NA,NA,NA,-13.03254047,3.605611258,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_49_sorted.BAM,NA,NA,NA,-8.494120744,-5.435011215,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_51_sorted.BAM,NA,NA,NA,-15.28432002,-0.146515198,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_53_sorted.BAM,NA,NA,NA,-11.54601112,0.436149292,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_55_sorted.BAM,NA,NA,NA,-10.81948581,-2.776142604,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_57_sorted.BAM,NA,NA,NA,-11.23589816,-0.9257868,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_59_sorted.BAM,NA,NA,NA,-13.11671367,5.092133932,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_63_sorted.BAM,NA,NA,NA,-5.785507349,0.526995592,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_65_sorted.BAM,NA,NA,NA,-7.426989702,3.914181643,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_67_sorted.BAM,NA,NA,NA,-5.406564859,0.265472346,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_71_sorted.BAM,NA,NA,NA,-7.880593446,-2.906239278,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_77_sorted.BAM,NA,NA,NA,-11.7921392,2.633750372,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_82_sorted.BAM,NA,NA,NA,-8.033517984,1.97239583,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_86_sorted.BAM,NA,NA,NA,-8.27820125,-5.581186599,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_88_sorted.BAM,NA,NA,NA,-5.331024793,4.297721796,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_90_sorted.BAM,NA,NA,NA,-12.23235813,1.495781355,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_94_sorted.BAM,NA,NA,NA,-7.205134538,-3.792193002,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_96_sorted.BAM,NA,NA,NA,-11.29836192,7.979178362,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_98_sorted.BAM,NA,NA,NA,-4.151525644,-1.930868603,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_100_sorted.BAM,NA,NA,NA,-9.711252359,2.183253699,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_104_sorted.BAM,NA,NA,NA,-11.77467647,6.32941144,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_106_sorted.BAM,NA,NA,NA,-12.70657173,-3.642894573,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_108_sorted.BAM,NA,NA,NA,-10.99848857,7.337832384,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_109_sorted.BAM,NA,NA,NA,0.776748749,-10.72808463,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_113_sorted.BAM,NA,NA,NA,-1.500852493,9.941975527,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_115_sorted.BAM,NA,NA,NA,-13.87467304,3.639655524,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_117_sorted.BAM,NA,NA,NA,-12.979314,-1.48069895,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_119_sorted.BAM,NA,NA,NA,-13.16952148,1.314084463,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_121_sorted.BAM,NA,NA,NA,-9.956524995,4.235481673,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_125_sorted.BAM,NA,NA,NA,-12.29354205,3.981466704,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_127_sorted.BAM,NA,NA,NA,-11.19950214,3.127201491,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_131_sorted.BAM,NA,NA,NA,-10.44612708,-1.381307668,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_133_sorted.BAM,NA,NA,NA,-11.72822585,-2.964889593,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_135_sorted.BAM,NA,NA,NA,-9.151946214,7.688943796,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_137_sorted.BAM,NA,NA,NA,-8.29550567,-0.44563622,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_139_sorted.BAM,NA,NA,NA,-8.636771349,6.648982935,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_141_sorted.BAM,NA,NA,NA,-9.90442386,-6.582862921,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_143_sorted.BAM,NA,NA,NA,-8.886712221,7.728799753,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_147_sorted.BAM,NA,NA,NA,-11.13845268,1.679812365,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_149_sorted.BAM,NA,NA,NA,-14.58831134,-1.853474803,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_153_sorted.BAM,NA,NA,NA,-12.27635017,-0.364149637,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_157_sorted.BAM,NA,NA,NA,-10.21408954,0.20640152,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_159_sorted.BAM,NA,NA,NA,-7.418803362,2.135888987,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_161_sorted.BAM,NA,NA,NA,-9.774921564,4.721726351,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_163_sorted.BAM,NA,NA,NA,-13.57624355,2.08741992,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_167_sorted.BAM,NA,NA,NA,-8.778970865,5.265030794,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_168_sorted.BAM,NA,NA,NA,-8.625934747,0.789492302,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_169_sorted.BAM,NA,NA,NA,-5.196593431,-2.756533063,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_172_sorted.BAM,NA,NA,NA,-8.468814043,-1.707275934,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_175_sorted.BAM,NA,NA,NA,-10.90369716,3.170720988,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_179_sorted.BAM,NA,NA,NA,-14.12997642,9.219850474,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_181_sorted.BAM,NA,NA,NA,-9.039602426,-0.93486721,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_184_sorted.BAM,NA,NA,NA,-12.69276729,6.166768961,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_188_sorted.BAM,NA,NA,NA,-15.78534236,-0.84925837,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_189_sorted.BAM,NA,NA,NA,-7.294576791,3.074016505,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_192_sorted.BAM,NA,NA,NA,-14.12060275,-0.399409122,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_193_sorted.BAM,NA,NA,NA,-9.047351984,0.111062222,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_196_sorted.BAM,NA,NA,NA,-8.375126985,2.976222925,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_197_sorted.BAM,NA,NA,NA,-7.919625429,2.182159834,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_198_sorted.BAM,NA,NA,NA,-5.983769563,-3.391365237,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_201_sorted.BAM,NA,NA,NA,-9.167004732,-4.809367485,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_204_sorted.BAM,NA,NA,NA,-6.304286626,-1.617775149,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_205_sorted.BAM,NA,NA,NA,-6.204790739,1.265710526,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_208_sorted.BAM,NA,NA,NA,-10.81711116,0.218101197,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_209_sorted.BAM,NA,NA,NA,-13.06152931,10.55067151,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_210_sorted.BAM,NA,NA,NA,-13.11151805,6.999021464,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_213_sorted.BAM,NA,NA,NA,-7.828036455,2.821391039,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_216_sorted.BAM,NA,NA,NA,-6.094120649,4.538489752,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_217_sorted.BAM,NA,NA,NA,-9.56537166,-3.903413839,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_222_sorted.BAM,NA,NA,NA,-2.308978227,-1.738359995,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_225_sorted.BAM,NA,NA,NA,-13.62904563,5.72626298,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_227_sorted.BAM,NA,NA,NA,-10.16242996,3.345210486,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_232_sorted.BAM,NA,NA,NA,-9.100248483,-0.403227634,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_233_sorted.BAM,NA,NA,NA,-8.983173517,2.190543108,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_235_sorted.BAM,NA,NA,NA,-4.478783277,-5.885781116,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_238_sorted.BAM,NA,NA,NA,-3.77218881,1.566434317,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_240_sorted.BAM,NA,NA,NA,-11.84073367,-2.284395419,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_242_sorted.BAM,NA,NA,NA,-9.60952392,10.31852239,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_244_sorted.BAM,NA,NA,NA,-9.519860414,6.792452746,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_245_sorted.BAM,NA,NA,NA,-11.18358245,-2.139485247,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_248_sorted.BAM,NA,NA,NA,-13.7617847,7.897981577,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_251_sorted.BAM,NA,NA,NA,-9.68422809,-0.950170583,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_253_sorted.BAM,NA,NA,NA,-9.823782114,3.18312829,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_259_sorted.BAM,NA,NA,NA,-10.28607288,6.228085451,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_260_sorted.BAM,NA,NA,NA,-5.298289445,1.547725373,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_261_sorted.BAM,NA,NA,NA,-3.414045957,-3.566251106,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_267_sorted.BAM,NA,NA,NA,-15.9543201,-2.388323284,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_268_sorted.BAM,NA,NA,NA,-12.88544956,-2.002706803,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_271_sorted.BAM,NA,NA,NA,-11.41657558,6.108813219,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_273_sorted.BAM,NA,NA,NA,-13.97917762,-1.334774918,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_274_sorted.BAM,NA,NA,NA,-8.525724557,-2.458713259,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_277_sorted.BAM,NA,NA,NA,-8.654546884,-0.601803965,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_280_sorted.BAM,NA,NA,NA,-9.50710502,1.317371779,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_281_sorted.BAM,NA,NA,NA,-8.975605157,-4.179351754,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_282_sorted.BAM,NA,NA,NA,-14.87079158,-1.045677252,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_285_sorted.BAM,NA,NA,NA,-14.26542201,0.883740835,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_288_sorted.BAM,NA,NA,NA,-4.309218076,3.633990698,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_290_sorted.BAM,NA,NA,NA,-12.57544723,-0.701817341,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_293_sorted.BAM,NA,NA,NA,-5.958779958,1.716097765,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_296_sorted.BAM,NA,NA,NA,-6.27891889,-5.630433149,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_298_sorted.BAM,NA,NA,NA,-14.80794635,-3.119460828,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_302_sorted.BAM,NA,NA,NA,-11.93437686,1.683655195,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_304_sorted.BAM,NA,NA,NA,-15.98352542,-2.239922992,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_308_sorted.BAM,NA,NA,NA,-11.42736736,-1.95399601,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_309_sorted.BAM,NA,NA,NA,-11.16180244,3.475907736,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_311_sorted.BAM,NA,NA,NA,-8.870501665,3.928195887,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_316_sorted.BAM,NA,NA,NA,-10.02088371,-4.605828113,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_317_sorted.BAM,NA,NA,NA,-10.64855113,7.117052012,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_319_sorted.BAM,NA,NA,NA,-14.35541168,2.133058481,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_322_sorted.BAM,NA,NA,NA,-7.968760637,-2.196928687,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_324_sorted.BAM,NA,NA,NA,-8.442331461,-2.720898456,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_325_sorted.BAM,NA,NA,NA,-12.45795646,0.819027357,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_331_sorted.BAM,NA,NA,NA,-10.5952312,2.729640894,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_332_sorted.BAM,NA,NA,NA,-5.815926221,-1.375460453,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_335_sorted.BAM,NA,NA,NA,-7.7131578,-3.110030598,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_336_sorted.BAM,NA,NA,NA,-9.041981844,-4.626025266,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_340_sorted.BAM,NA,NA,NA,-10.36377826,7.233524256,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_343_sorted.BAM,NA,NA,NA,-6.742148546,3.326247626,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_344_sorted.BAM,NA,NA,NA,-7.118894724,4.994715147,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_348_sorted.BAM,NA,NA,NA,-11.78390613,11.48668664,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_351_sorted.BAM,NA,NA,NA,-13.95496383,6.837128573,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_352_sorted.BAM,NA,NA,NA,-4.695627359,-4.610062427,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_356_sorted.BAM,NA,NA,NA,-11.91364303,7.665111475,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_360_sorted.BAM,NA,NA,NA,-9.987651018,0.016836338,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_361_sorted.BAM,NA,NA,NA,-13.98044601,9.402289324,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_362_sorted.BAM,NA,NA,NA,-8.718021539,2.617261343,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_365_sorted.BAM,NA,NA,NA,-13.55024066,10.98394769,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_368_sorted.BAM,NA,NA,NA,-5.168971208,3.566256457,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_369_sorted.BAM,NA,NA,NA,-7.717432169,3.210215502,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_372_sorted.BAM,NA,NA,NA,-8.515049127,2.934374743,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_377_sorted.BAM,NA,NA,NA,-4.202573923,2.298419409,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_4_380_sorted.BAM,NA,NA,NA,-12.48632064,-0.097709245,NA,NA,sporozoite,sporozoite (injected),NA,NA,mosquito
+X33946_4_382_sorted.BAM,NA,NA,NA,-12.48525062,-5.085042305,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_5_6_sorted.BAM,NA,NA,NA,-4.221946386,10.56349938,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_7_sorted.BAM,NA,NA,NA,-3.544704107,9.253237658,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_10_sorted.BAM,NA,NA,NA,-5.140415815,-2.773710317,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_11_sorted.BAM,NA,NA,NA,-4.670800832,7.669521265,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_14_sorted.BAM,NA,NA,NA,-7.817178873,10.45131009,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_15_sorted.BAM,NA,NA,NA,-4.898731855,8.859715395,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_18_sorted.BAM,NA,NA,NA,-10.59804645,4.185007982,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_19_sorted.BAM,NA,NA,NA,-2.966282514,8.7255935,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_22_sorted.BAM,NA,NA,NA,-10.45577255,5.378667288,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_23_sorted.BAM,NA,NA,NA,-12.83648219,8.27721303,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_27_sorted.BAM,NA,NA,NA,-2.02042189,9.324466639,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_28_sorted.BAM,NA,NA,NA,-2.566508678,7.688831263,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_31_sorted.BAM,NA,NA,NA,-13.47598949,10.18601888,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_32_sorted.BAM,NA,NA,NA,-4.412609724,8.715310984,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_35_sorted.BAM,NA,NA,NA,-5.923742441,4.696302824,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_36_sorted.BAM,NA,NA,NA,-1.896128563,6.889289789,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_39_sorted.BAM,NA,NA,NA,-5.328697828,9.951698237,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_40_sorted.BAM,NA,NA,NA,-6.293153432,10.80783551,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_43_sorted.BAM,NA,NA,NA,-5.174905447,8.668019228,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_44_sorted.BAM,NA,NA,NA,-8.420777467,9.341235094,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_47_sorted.BAM,NA,NA,NA,-3.143972066,11.19640534,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_48_sorted.BAM,NA,NA,NA,-5.525046972,7.443195276,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_51_sorted.BAM,NA,NA,NA,-7.261670259,9.37255662,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_52_sorted.BAM,NA,NA,NA,-2.598394302,10.99162667,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_53_sorted.BAM,NA,NA,NA,-4.05834165,7.827618532,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_54_sorted.BAM,NA,NA,NA,-3.997306493,6.165623598,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_57_sorted.BAM,NA,NA,NA,-5.60968223,9.189579897,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_58_sorted.BAM,NA,NA,NA,-2.81271377,5.543445044,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_61_sorted.BAM,NA,NA,NA,-1.626775888,-2.770745702,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_62_sorted.BAM,NA,NA,NA,-3.54789224,7.006707125,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_65_sorted.BAM,NA,NA,NA,-2.58949819,10.22182172,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_66_sorted.BAM,NA,NA,NA,-3.738824037,5.81962102,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_69_sorted.BAM,NA,NA,NA,-2.801044611,8.271053248,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_70_sorted.BAM,NA,NA,NA,-1.409228471,6.191411906,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_73_sorted.BAM,NA,NA,NA,-2.064272789,7.701799326,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_74_sorted.BAM,NA,NA,NA,-5.487179903,9.552949839,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_77_sorted.BAM,NA,NA,NA,-2.147219804,4.555337839,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_78_sorted.BAM,NA,NA,NA,-13.36315456,8.355925493,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_82_sorted.BAM,NA,NA,NA,-1.499154476,8.68442338,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_83_sorted.BAM,NA,NA,NA,-4.56153932,12.44213384,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_86_sorted.BAM,NA,NA,NA,-6.073139337,8.859668665,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_87_sorted.BAM,NA,NA,NA,-11.69895187,10.76676076,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_90_sorted.BAM,NA,NA,NA,-5.333500532,1.44008296,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_91_sorted.BAM,NA,NA,NA,-5.40555015,11.02623456,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_94_sorted.BAM,NA,NA,NA,-6.938197282,10.38904374,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_95_sorted.BAM,NA,NA,NA,-5.577741769,6.843970232,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_98_sorted.BAM,NA,NA,NA,-7.807233957,6.84048646,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_99_sorted.BAM,NA,NA,NA,-5.907802728,9.789871149,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_102_sorted.BAM,NA,NA,NA,-13.98658672,11.45145219,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_103_sorted.BAM,NA,NA,NA,-2.820635942,8.290096216,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_106_sorted.BAM,NA,NA,NA,-5.833762792,4.56512969,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_107_sorted.BAM,NA,NA,NA,-7.090315012,8.049917155,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_111_sorted.BAM,NA,NA,NA,-4.848657755,8.031755381,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_116_sorted.BAM,NA,NA,NA,-11.82058826,5.154704981,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_119_sorted.BAM,NA,NA,NA,-2.486241249,8.812632494,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_120_sorted.BAM,NA,NA,NA,-12.32347503,11.78129857,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_123_sorted.BAM,NA,NA,NA,-4.311618951,11.81585782,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_124_sorted.BAM,NA,NA,NA,-7.149894861,8.982249193,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_127_sorted.BAM,NA,NA,NA,-2.208452371,7.591397219,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_128_sorted.BAM,NA,NA,NA,-1.197792915,4.257415228,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_131_sorted.BAM,NA,NA,NA,-12.74724975,8.018144541,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_132_sorted.BAM,NA,NA,NA,-2.897354749,10.30771535,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_135_sorted.BAM,NA,NA,NA,-2.309670833,8.623300486,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_136_sorted.BAM,NA,NA,NA,-1.83489528,10.02770417,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_137_sorted.BAM,NA,NA,NA,-6.793040422,4.616052561,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_138_sorted.BAM,NA,NA,NA,-3.824065832,5.64372819,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_141_sorted.BAM,NA,NA,NA,-4.581149248,6.561770373,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_145_sorted.BAM,NA,NA,NA,-3.229981569,8.344658785,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_146_sorted.BAM,NA,NA,NA,-3.748908666,9.216842585,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_149_sorted.BAM,NA,NA,NA,-4.155754713,6.971711092,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_150_sorted.BAM,NA,NA,NA,-3.19820228,6.282867365,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_154_sorted.BAM,NA,NA,NA,-3.424493936,8.25913518,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_158_sorted.BAM,NA,NA,NA,-10.53623786,6.675723009,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_161_sorted.BAM,NA,NA,NA,-10.79262271,-0.128843136,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_162_sorted.BAM,NA,NA,NA,-5.086752561,8.122046404,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_166_sorted.BAM,NA,NA,NA,-5.120238927,12.06081765,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_168_sorted.BAM,NA,NA,NA,-7.984251169,9.000997477,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_169_sorted.BAM,NA,NA,NA,-3.670303491,8.437571459,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_171_sorted.BAM,NA,NA,NA,-6.048859266,8.8073911,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_174_sorted.BAM,NA,NA,NA,-3.921124128,9.047393732,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_176_sorted.BAM,NA,NA,NA,-7.628680376,6.059709482,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_178_sorted.BAM,NA,NA,NA,-7.645095018,7.772715502,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_180_sorted.BAM,NA,NA,NA,-7.428334383,11.37547296,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_181_sorted.BAM,NA,NA,NA,-6.550554899,9.726055079,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_183_sorted.BAM,NA,NA,NA,-9.285809663,9.456388407,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_186_sorted.BAM,NA,NA,NA,-3.654584554,11.4298219,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_188_sorted.BAM,NA,NA,NA,-4.982551244,9.693931513,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_189_sorted.BAM,NA,NA,NA,-12.05177608,9.340892725,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_191_sorted.BAM,NA,NA,NA,-0.593238739,6.81884759,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_195_sorted.BAM,NA,NA,NA,-3.977418569,7.970498018,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_196_sorted.BAM,NA,NA,NA,-1.07755175,7.858163767,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_197_sorted.BAM,NA,NA,NA,-6.991201547,12.5019893,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_200_sorted.BAM,NA,NA,NA,-2.559836534,5.612224512,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_203_sorted.BAM,NA,NA,NA,-10.20097843,8.04744237,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_204_sorted.BAM,NA,NA,NA,-1.947673944,10.42633336,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_208_sorted.BAM,NA,NA,NA,-6.463113931,7.948966913,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_209_sorted.BAM,NA,NA,NA,-5.576068548,4.019174986,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_212_sorted.BAM,NA,NA,NA,-13.15758148,9.853065424,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_216_sorted.BAM,NA,NA,NA,-3.299186853,5.139453345,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_217_sorted.BAM,NA,NA,NA,-8.089597849,11.75372022,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_218_sorted.BAM,NA,NA,NA,-1.893848804,3.619916373,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_221_sorted.BAM,NA,NA,NA,-3.968042997,7.518643313,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_224_sorted.BAM,NA,NA,NA,-7.056267885,7.072579317,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_225_sorted.BAM,NA,NA,NA,-5.341781763,8.312638216,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_226_sorted.BAM,NA,NA,NA,-12.05278316,7.223172121,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_229_sorted.BAM,NA,NA,NA,-8.426281122,9.864655428,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_232_sorted.BAM,NA,NA,NA,-4.84233394,5.307259493,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_233_sorted.BAM,NA,NA,NA,-2.846974519,4.789410048,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_234_sorted.BAM,NA,NA,NA,-2.014326004,6.543373995,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_237_sorted.BAM,NA,NA,NA,-1.096747783,7.454668932,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_240_sorted.BAM,NA,NA,NA,-4.926516679,10.53516858,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_241_sorted.BAM,NA,NA,NA,-9.112990526,5.744681292,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_244_sorted.BAM,NA,NA,NA,-4.851865438,6.248372011,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_245_sorted.BAM,NA,NA,NA,-8.007508424,10.81556504,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_247_sorted.BAM,NA,NA,NA,-4.778603223,9.451220446,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_250_sorted.BAM,NA,NA,NA,-4.711529401,3.486051016,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_252_sorted.BAM,NA,NA,NA,-10.78837505,8.122216158,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_253_sorted.BAM,NA,NA,NA,-14.28933254,3.140544825,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_255_sorted.BAM,NA,NA,NA,-7.895939973,8.960417681,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_258_sorted.BAM,NA,NA,NA,-1.551693824,6.671179705,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_260_sorted.BAM,NA,NA,NA,-4.246514467,5.040151053,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_261_sorted.BAM,NA,NA,NA,-1.84118357,5.320942335,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_263_sorted.BAM,NA,NA,NA,-12.21699252,10.57064145,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_266_sorted.BAM,NA,NA,NA,-2.211450246,9.57014554,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_268_sorted.BAM,NA,NA,NA,-8.049613145,6.498678141,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_270_sorted.BAM,NA,NA,NA,-13.97736469,10.18048947,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_272_sorted.BAM,NA,NA,NA,-6.530963091,9.430816584,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_273_sorted.BAM,NA,NA,NA,-6.294043211,8.286673479,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_276_sorted.BAM,NA,NA,NA,-2.922466901,9.84054368,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_279_sorted.BAM,NA,NA,NA,-7.099543718,11.00336926,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_280_sorted.BAM,NA,NA,NA,-8.849321512,6.564898424,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_281_sorted.BAM,NA,NA,NA,-6.239265588,12.58052438,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_284_sorted.BAM,NA,NA,NA,-5.839179662,5.333315783,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_287_sorted.BAM,NA,NA,NA,-1.366336969,9.460643702,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_288_sorted.BAM,NA,NA,NA,-5.754654077,8.051941805,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_289_sorted.BAM,NA,NA,NA,-3.933755544,7.347628527,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_292_sorted.BAM,NA,NA,NA,-4.486906198,11.12805074,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_295_sorted.BAM,NA,NA,NA,-4.915369657,10.65358155,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_296_sorted.BAM,NA,NA,NA,-8.555449632,7.944811754,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_297_sorted.BAM,NA,NA,NA,-1.489653495,5.607664042,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_300_sorted.BAM,NA,NA,NA,-0.938978819,8.515828066,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_301_sorted.BAM,NA,NA,NA,-3.106230405,10.5870704,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_304_sorted.BAM,NA,NA,NA,-4.28330293,5.594342165,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_305_sorted.BAM,NA,NA,NA,-1.869352726,6.975380831,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_308_sorted.BAM,NA,NA,NA,-4.499639658,10.86982339,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_309_sorted.BAM,NA,NA,NA,-6.25592914,8.945633822,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_310_sorted.BAM,NA,NA,NA,-6.998304514,9.921453409,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_313_sorted.BAM,NA,NA,NA,-7.766059068,10.83444779,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_316_sorted.BAM,NA,NA,NA,-5.598611978,12.98477357,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_317_sorted.BAM,NA,NA,NA,-2.16242638,5.880477839,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_318_sorted.BAM,NA,NA,NA,-11.47577396,11.08592885,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_321_sorted.BAM,NA,NA,NA,-6.882755426,10.40995114,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_324_sorted.BAM,NA,NA,NA,-5.433453706,9.980256014,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_325_sorted.BAM,NA,NA,NA,-13.1161119,11.85374444,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_326_sorted.BAM,NA,NA,NA,-5.772302297,6.507896357,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_330_sorted.BAM,NA,NA,NA,-7.330981401,6.279344492,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_332_sorted.BAM,NA,NA,NA,-7.820724634,4.602220469,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_334_sorted.BAM,NA,NA,NA,-12.74575439,5.691842966,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_336_sorted.BAM,NA,NA,NA,-4.305486826,7.675159388,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_337_sorted.BAM,NA,NA,NA,-4.594712881,6.642896586,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_339_sorted.BAM,NA,NA,NA,-4.034371046,9.098487787,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_344_sorted.BAM,NA,NA,NA,-15.12039867,11.88585752,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_345_sorted.BAM,NA,NA,NA,-5.584183839,8.548020296,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_347_sorted.BAM,NA,NA,NA,-1.826110271,7.630958491,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_350_sorted.BAM,NA,NA,NA,-4.850162653,7.875731402,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_352_sorted.BAM,NA,NA,NA,-4.601934103,8.056099825,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_353_sorted.BAM,NA,NA,NA,-8.017995981,10.06733792,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_355_sorted.BAM,NA,NA,NA,-4.350394872,4.799327784,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_359_sorted.BAM,NA,NA,NA,-2.129421381,6.961077624,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_360_sorted.BAM,NA,NA,NA,-11.54281631,8.582709246,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_361_sorted.BAM,NA,NA,NA,-6.357506898,7.032474451,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_364_sorted.BAM,NA,NA,NA,-3.320118097,10.64112752,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_367_sorted.BAM,NA,NA,NA,-6.204500822,5.474846773,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_368_sorted.BAM,NA,NA,NA,-12.4847776,11.00138562,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_371_sorted.BAM,NA,NA,NA,-7.589208749,7.52378171,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_372_sorted.BAM,NA,NA,NA,-12.99016586,11.10875028,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_373_sorted.BAM,NA,NA,NA,-5.970898298,5.725149088,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_376_sorted.BAM,NA,NA,NA,-14.14169994,10.01291936,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_379_sorted.BAM,NA,NA,NA,-2.984602598,7.411751681,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_5_380_sorted.BAM,NA,NA,NA,-1.636735824,4.05732625,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_5_sorted.BAM,NA,NA,NA,-15.62119022,10.74687951,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_7_sorted.BAM,NA,NA,NA,-3.759747652,1.533271246,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_8_sorted.BAM,NA,NA,NA,-7.494393495,-9.698890753,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_9_sorted.BAM,NA,NA,NA,2.975566241,-10.02458198,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_11_sorted.BAM,NA,NA,NA,-6.40825477,6.415641718,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_12_sorted.BAM,NA,NA,NA,-1.678991464,-6.358779497,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_13_sorted.BAM,NA,NA,NA,-6.503791956,-5.810328073,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_15_sorted.BAM,NA,NA,NA,-2.982853559,1.597511225,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_16_sorted.BAM,NA,NA,NA,-15.08006587,11.08049291,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_17_sorted.BAM,NA,NA,NA,-9.946891931,-1.989319778,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_18_sorted.BAM,NA,NA,NA,-10.95382514,0.084679775,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_19_sorted.BAM,NA,NA,NA,-8.885356096,12.55739301,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_20_sorted.BAM,NA,NA,NA,-8.269236711,-3.216758973,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_21_sorted.BAM,NA,NA,NA,-6.997085718,-5.476422138,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_22_sorted.BAM,NA,NA,NA,-5.376132158,10.15821355,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_23_sorted.BAM,NA,NA,NA,-3.312899736,-1.745809204,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_24_sorted.BAM,NA,NA,NA,-1.190555004,-5.654023237,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_26_sorted.BAM,NA,NA,NA,-9.802342561,-5.198342628,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_27_sorted.BAM,NA,NA,NA,-1.380901722,3.866946631,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_29_sorted.BAM,NA,NA,NA,2.20439473,-8.331479616,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_30_sorted.BAM,NA,NA,NA,-11.35736194,-5.662771053,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_31_sorted.BAM,NA,NA,NA,-7.996552614,7.844498568,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_32_sorted.BAM,NA,NA,NA,-9.501092104,0.474558764,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_33_sorted.BAM,NA,NA,NA,-11.88910117,-0.671218462,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_34_sorted.BAM,NA,NA,NA,-11.4530088,-5.1921838,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_36_sorted.BAM,NA,NA,NA,-12.56907573,2.515348845,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_37_sorted.BAM,NA,NA,NA,-14.38672462,-2.931391663,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_40_sorted.BAM,NA,NA,NA,-7.984121469,1.42343276,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_41_sorted.BAM,NA,NA,NA,-4.924158243,-4.937368698,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_44_sorted.BAM,NA,NA,NA,-11.63613429,1.998952799,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_45_sorted.BAM,NA,NA,NA,-10.70996681,-5.166307754,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_46_sorted.BAM,NA,NA,NA,-9.333517221,-2.719115622,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_48_sorted.BAM,NA,NA,NA,-12.64544692,5.9325208,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_49_sorted.BAM,NA,NA,NA,-9.278878358,0.641242199,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_51_sorted.BAM,NA,NA,NA,-1.973261026,11.04577153,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_52_sorted.BAM,NA,NA,NA,-8.124016908,4.987836771,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_53_sorted.BAM,NA,NA,NA,-4.342161802,10.23615926,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_54_sorted.BAM,NA,NA,NA,-14.19758048,-2.140669412,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_56_sorted.BAM,NA,NA,NA,-5.897145895,-6.713783331,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_57_sorted.BAM,NA,NA,NA,-5.688572076,11.66792291,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_58_sorted.BAM,NA,NA,NA,-6.13934007,-4.098815269,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_59_sorted.BAM,NA,NA,NA,-8.670294908,-6.261390037,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_60_sorted.BAM,NA,NA,NA,-0.026237396,-13.28972442,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_61_sorted.BAM,NA,NA,NA,-7.790374902,12.15037816,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_62_sorted.BAM,NA,NA,NA,-6.761799959,1.670193129,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_63_sorted.BAM,NA,NA,NA,-6.597242979,-7.046870298,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_64_sorted.BAM,NA,NA,NA,-7.995724825,-4.007473893,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_66_sorted.BAM,NA,NA,NA,-6.101450113,7.401711397,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_67_sorted.BAM,NA,NA,NA,-8.705118326,-8.45758254,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_68_sorted.BAM,NA,NA,NA,-7.801108507,-3.92207057,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_70_sorted.BAM,NA,NA,NA,-13.72634807,3.296558314,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_71_sorted.BAM,NA,NA,NA,-9.610389856,6.09148305,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_72_sorted.BAM,NA,NA,NA,-7.832404283,-6.857873506,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_74_sorted.BAM,NA,NA,NA,-11.91194167,9.877544337,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_75_sorted.BAM,NA,NA,NA,-12.93134227,3.600689345,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_76_sorted.BAM,NA,NA,NA,-11.95309463,-4.809305734,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_78_sorted.BAM,NA,NA,NA,-3.427835134,-0.705014891,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_79_sorted.BAM,NA,NA,NA,-11.26904502,-7.23154933,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_80_sorted.BAM,NA,NA,NA,-6.470752386,-4.771992988,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_81_sorted.BAM,NA,NA,NA,-12.12447849,-4.971193142,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_82_sorted.BAM,NA,NA,NA,-5.754214433,1.199207955,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_83_sorted.BAM,NA,NA,NA,-13.73042789,8.496227198,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_84_sorted.BAM,NA,NA,NA,-10.41172805,-2.524082452,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_85_sorted.BAM,NA,NA,NA,-9.526466516,-7.825100488,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_86_sorted.BAM,NA,NA,NA,-3.828927187,9.971781664,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_87_sorted.BAM,NA,NA,NA,-5.466274885,2.58108037,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_88_sorted.BAM,NA,NA,NA,-8.612371591,-7.595066614,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_89_sorted.BAM,NA,NA,NA,-15.08177867,1.926580363,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_90_sorted.BAM,NA,NA,NA,-2.496029285,10.05040448,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_91_sorted.BAM,NA,NA,NA,-3.141084341,2.554729395,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_92_sorted.BAM,NA,NA,NA,-6.995114473,-5.233980007,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_93_sorted.BAM,NA,NA,NA,2.029410216,-12.66094405,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_94_sorted.BAM,NA,NA,NA,-3.056130556,5.437584334,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_95_sorted.BAM,NA,NA,NA,-10.59639659,-0.41605217,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_96_sorted.BAM,NA,NA,NA,-6.911624101,6.400676661,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_97_sorted.BAM,NA,NA,NA,-0.237583307,-7.924651689,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_99_sorted.BAM,NA,NA,NA,-6.550171522,0.311277323,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_100_sorted.BAM,NA,NA,NA,-9.643456606,-7.828904695,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_101_sorted.BAM,NA,NA,NA,-7.987477449,-1.870007343,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_103_sorted.BAM,NA,NA,NA,-10.05822673,5.21160739,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_104_sorted.BAM,NA,NA,NA,-8.538945345,-4.343689151,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_105_sorted.BAM,NA,NA,NA,-8.072248605,-1.199512429,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_107_sorted.BAM,NA,NA,NA,-7.005635408,1.815761976,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_108_sorted.BAM,NA,NA,NA,-9.981194643,-4.82493288,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_109_sorted.BAM,NA,NA,NA,-10.05796924,-4.479167528,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_110_sorted.BAM,NA,NA,NA,-5.028589872,-2.8892451,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_112_sorted.BAM,NA,NA,NA,-9.633700517,2.153578215,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_113_sorted.BAM,NA,NA,NA,-10.17989936,-3.947402901,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_114_sorted.BAM,NA,NA,NA,-5.781487611,-3.849485464,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_115_sorted.BAM,NA,NA,NA,-8.905447153,8.639120035,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_116_sorted.BAM,NA,NA,NA,-6.497656969,2.799910479,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_117_sorted.BAM,NA,NA,NA,-7.554061082,-4.367525406,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_118_sorted.BAM,NA,NA,NA,-12.88286701,1.957666807,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_119_sorted.BAM,NA,NA,NA,-4.375965742,11.95225232,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_120_sorted.BAM,NA,NA,NA,-7.483478693,3.604244166,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_121_sorted.BAM,NA,NA,NA,-7.265734819,-3.077660746,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_122_sorted.BAM,NA,NA,NA,-9.903000978,-3.464478917,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_123_sorted.BAM,NA,NA,NA,-2.843454507,7.890033655,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_124_sorted.BAM,NA,NA,NA,-9.107563165,3.247837,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_125_sorted.BAM,NA,NA,NA,-0.669273523,-10.74857528,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_126_sorted.BAM,NA,NA,NA,1.747385475,-11.14654166,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_127_sorted.BAM,NA,NA,NA,-5.502194074,12.57838815,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_128_sorted.BAM,NA,NA,NA,-3.834180502,-1.048614926,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_129_sorted.BAM,NA,NA,NA,-8.498031763,-1.420460827,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_130_sorted.BAM,NA,NA,NA,-5.026055482,-10.23192937,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_133_sorted.BAM,NA,NA,NA,-7.159943727,-3.00986845,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_134_sorted.BAM,NA,NA,NA,-0.453690437,-8.655802793,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_136_sorted.BAM,NA,NA,NA,-11.19796577,5.726228647,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_138_sorted.BAM,NA,NA,NA,-5.73860946,2.401410036,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_139_sorted.BAM,NA,NA,NA,-6.955800203,-6.576956339,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_140_sorted.BAM,NA,NA,NA,-12.16006294,-6.142520971,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_142_sorted.BAM,NA,NA,NA,-12.87489143,11.32327264,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_144_sorted.BAM,NA,NA,NA,-6.049176839,-9.678592748,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_145_sorted.BAM,NA,NA,NA,-3.719981817,9.216183596,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_146_sorted.BAM,NA,NA,NA,-10.45689025,2.633480482,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_147_sorted.BAM,NA,NA,NA,-11.80724826,-1.073622532,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_148_sorted.BAM,NA,NA,NA,-6.120136407,-4.920429058,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_149_sorted.BAM,NA,NA,NA,-6.350113538,8.712830477,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_150_sorted.BAM,NA,NA,NA,-8.281806139,3.377210551,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_151_sorted.BAM,NA,NA,NA,-4.439684061,-1.628629155,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_152_sorted.BAM,NA,NA,NA,-6.230258611,-7.333535261,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_153_sorted.BAM,NA,NA,NA,-3.251446394,9.797304087,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_154_sorted.BAM,NA,NA,NA,-11.8840076,4.930672102,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_155_sorted.BAM,NA,NA,NA,0.723204109,-10.62053115,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_156_sorted.BAM,NA,NA,NA,-8.037968782,0.365389996,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_157_sorted.BAM,NA,NA,NA,-11.22766223,11.99855416,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_159_sorted.BAM,NA,NA,NA,-11.75046077,-5.484199829,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_160_sorted.BAM,NA,NA,NA,-0.235739616,-7.064618177,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_162_sorted.BAM,NA,NA,NA,-8.965295938,-0.36737997,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_163_sorted.BAM,NA,NA,NA,0.431800636,-8.627655096,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_164_sorted.BAM,NA,NA,NA,0.617568108,-10.08211905,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_166_sorted.BAM,NA,NA,NA,-7.373970178,1.40613287,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_167_sorted.BAM,NA,NA,NA,-6.385406641,-5.586917944,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_170_sorted.BAM,NA,NA,NA,-11.90476623,0.86209672,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_171_sorted.BAM,NA,NA,NA,-5.859846262,2.142670088,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_172_sorted.BAM,NA,NA,NA,-9.270253328,-2.828853197,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_173_sorted.BAM,NA,NA,NA,0.998157414,-11.50633819,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_174_sorted.BAM,NA,NA,NA,-7.419966844,0.782264166,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_175_sorted.BAM,NA,NA,NA,1.144617396,-10.06593806,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_177_sorted.BAM,NA,NA,NA,-14.64674487,-1.122107095,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_179_sorted.BAM,NA,NA,NA,-13.22893062,10.80174821,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_180_sorted.BAM,NA,NA,NA,-10.42074218,8.311848574,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_181_sorted.BAM,NA,NA,NA,-3.750721601,6.675004893,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_182_sorted.BAM,NA,NA,NA,-11.37465015,-6.577048845,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_183_sorted.BAM,NA,NA,NA,-7.221608308,0.189135008,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_184_sorted.BAM,NA,NA,NA,-11.25757804,-6.248059816,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_185_sorted.BAM,NA,NA,NA,-14.63772216,3.288631373,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_186_sorted.BAM,NA,NA,NA,-7.373627809,-0.31017024,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_187_sorted.BAM,NA,NA,NA,-7.857301859,-4.395424909,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_188_sorted.BAM,NA,NA,NA,-1.561491159,10.69528478,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_190_sorted.BAM,NA,NA,NA,-1.557941345,-9.45509202,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_191_sorted.BAM,NA,NA,NA,-6.435818819,-2.622414164,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_192_sorted.BAM,NA,NA,NA,-12.4393827,-5.358699627,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_193_sorted.BAM,NA,NA,NA,-0.909412054,-6.27193243,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_194_sorted.BAM,NA,NA,NA,-12.62635436,-1.662520118,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_198_sorted.BAM,NA,NA,NA,-9.237015871,-8.48406703,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_199_sorted.BAM,NA,NA,NA,-7.96681991,-5.873277015,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_200_sorted.BAM,NA,NA,NA,-9.315437463,-1.908727236,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_201_sorted.BAM,NA,NA,NA,-10.30193725,-0.741768546,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_202_sorted.BAM,NA,NA,NA,-2.388321546,-9.606443472,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_203_sorted.BAM,NA,NA,NA,-10.70926967,8.716902666,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_205_sorted.BAM,NA,NA,NA,-12.27926555,10.2482137,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_206_sorted.BAM,NA,NA,NA,-7.786093858,-6.467675752,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_207_sorted.BAM,NA,NA,NA,-9.314603952,3.18166297,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_209_sorted.BAM,NA,NA,NA,-8.386048463,10.91594594,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_210_sorted.BAM,NA,NA,NA,-11.36575046,-0.792049117,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_211_sorted.BAM,NA,NA,NA,-8.548456338,-7.056939192,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_212_sorted.BAM,NA,NA,NA,-12.27770343,4.632883482,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_213_sorted.BAM,NA,NA,NA,1.285297862,-7.562289305,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_214_sorted.BAM,NA,NA,NA,-7.285506395,-5.072788543,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_215_sorted.BAM,NA,NA,NA,-12.35957923,0.113311701,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_216_sorted.BAM,NA,NA,NA,-2.94597545,5.316483908,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_217_sorted.BAM,NA,NA,NA,-3.277393011,10.23315614,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_218_sorted.BAM,NA,NA,NA,-12.03963676,5.540442877,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_219_sorted.BAM,NA,NA,NA,-8.063336519,-7.433300085,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_220_sorted.BAM,NA,NA,NA,-10.97566429,-6.099888391,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_221_sorted.BAM,NA,NA,NA,-13.87567535,2.428128176,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_222_sorted.BAM,NA,NA,NA,-6.289186147,-7.31283719,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_223_sorted.BAM,NA,NA,NA,-11.35330978,6.334359102,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_224_sorted.BAM,NA,NA,NA,-3.579743532,6.394687586,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_226_sorted.BAM,NA,NA,NA,1.174416276,-9.048122949,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_227_sorted.BAM,NA,NA,NA,-10.41461673,-4.072710223,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_228_sorted.BAM,NA,NA,NA,-7.532608179,-8.224290914,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_229_sorted.BAM,NA,NA,NA,-8.714727548,4.215320044,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_230_sorted.BAM,NA,NA,NA,-5.892400888,-5.775796003,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_231_sorted.BAM,NA,NA,NA,-8.369916109,-4.280265279,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_234_sorted.BAM,NA,NA,NA,-8.879895357,1.275957041,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_235_sorted.BAM,NA,NA,NA,-11.54435554,-6.158482141,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_236_sorted.BAM,NA,NA,NA,-7.766794351,-5.214470691,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_237_sorted.BAM,NA,NA,NA,-11.66666618,-2.714856363,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_238_sorted.BAM,NA,NA,NA,-11.46980014,1.729083948,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_239_sorted.BAM,NA,NA,NA,-6.005591062,-2.562697894,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_241_sorted.BAM,NA,NA,NA,-9.439625887,3.45672267,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_242_sorted.BAM,NA,NA,NA,-9.08585563,-2.596693865,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_243_sorted.BAM,NA,NA,NA,-10.93000903,-3.743419714,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_244_sorted.BAM,NA,NA,NA,-9.639091638,5.451056891,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_245_sorted.BAM,NA,NA,NA,-6.597216753,10.34343999,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_246_sorted.BAM,NA,NA,NA,-7.086400179,-5.100395984,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_247_sorted.BAM,NA,NA,NA,-6.037269262,2.723088675,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_248_sorted.BAM,NA,NA,NA,-7.082706598,-2.567727096,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_249_sorted.BAM,NA,NA,NA,-13.39976039,10.54094308,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_250_sorted.BAM,NA,NA,NA,-10.10727516,4.19599288,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_251_sorted.BAM,NA,NA,NA,-9.188243059,-4.114512391,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_252_sorted.BAM,NA,NA,NA,-5.562804845,9.267507487,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_253_sorted.BAM,NA,NA,NA,-6.398721365,6.039999895,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_254_sorted.BAM,NA,NA,NA,-13.54399219,-3.850859947,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_255_sorted.BAM,NA,NA,NA,-8.33637729,5.121414118,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_256_sorted.BAM,NA,NA,NA,-1.456474928,-10.26989133,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_257_sorted.BAM,NA,NA,NA,-7.380627779,-9.288439817,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_258_sorted.BAM,NA,NA,NA,-9.56943622,4.522818976,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_259_sorted.BAM,NA,NA,NA,-10.37340274,-4.056304044,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_262_sorted.BAM,NA,NA,NA,-8.92437282,-6.442556925,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_263_sorted.BAM,NA,NA,NA,-7.418356088,2.192052298,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_264_sorted.BAM,NA,NA,NA,-13.53655448,-3.384828574,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_265_sorted.BAM,NA,NA,NA,-14.61544719,-2.02358929,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_267_sorted.BAM,NA,NA,NA,-6.939460901,3.962192946,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_269_sorted.BAM,NA,NA,NA,-14.2450315,-3.314153499,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_270_sorted.BAM,NA,NA,NA,-8.750386385,2.085212164,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_271_sorted.BAM,NA,NA,NA,-8.331891206,-2.807217545,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_273_sorted.BAM,NA,NA,NA,-3.527776865,10.8125562,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_274_sorted.BAM,NA,NA,NA,-4.380252031,2.594674044,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_275_sorted.BAM,NA,NA,NA,-12.74360862,-2.772312678,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_276_sorted.BAM,NA,NA,NA,-10.82408347,1.783913069,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_277_sorted.BAM,NA,NA,NA,-9.441387323,-5.731952019,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_278_sorted.BAM,NA,NA,NA,0.32580361,-8.408486433,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_279_sorted.BAM,NA,NA,NA,-15.17811504,-0.354476042,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_280_sorted.BAM,NA,NA,NA,-11.66401592,9.456147127,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_281_sorted.BAM,NA,NA,NA,-4.850546506,6.795579844,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_282_sorted.BAM,NA,NA,NA,0.010504934,-9.357803888,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_283_sorted.BAM,NA,NA,NA,-9.006431726,-6.977559156,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_285_sorted.BAM,NA,NA,NA,-8.287547258,-1.925984628,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_286_sorted.BAM,NA,NA,NA,-8.484875825,-8.652733869,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_287_sorted.BAM,NA,NA,NA,-9.22268596,5.378521853,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_288_sorted.BAM,NA,NA,NA,-8.309956697,5.209831648,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_290_sorted.BAM,NA,NA,NA,-13.0460321,-3.372812576,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_291_sorted.BAM,NA,NA,NA,-9.234573511,2.519192629,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_292_sorted.BAM,NA,NA,NA,-10.01251903,6.568105631,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_293_sorted.BAM,NA,NA,NA,1.268400513,-10.99035842,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_294_sorted.BAM,NA,NA,NA,-8.992298273,-6.406875438,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_295_sorted.BAM,NA,NA,NA,-13.25023189,4.069398813,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_298_sorted.BAM,NA,NA,NA,-10.02364269,7.313330584,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_299_sorted.BAM,NA,NA,NA,-0.642330674,-6.885650224,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_300_sorted.BAM,NA,NA,NA,-8.017848161,6.089998179,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_301_sorted.BAM,NA,NA,NA,-6.394933847,4.990385943,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_302_sorted.BAM,NA,NA,NA,-7.271402505,-1.660753197,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_303_sorted.BAM,NA,NA,NA,-12.20499149,-2.595524601,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_305_sorted.BAM,NA,NA,NA,-10.64346805,1.656908922,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_306_sorted.BAM,NA,NA,NA,-7.837963251,-5.305984564,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_307_sorted.BAM,NA,NA,NA,-14.5219709,10.93867391,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_308_sorted.BAM,NA,NA,NA,-5.716759351,8.930237704,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_309_sorted.BAM,NA,NA,NA,-12.61492935,3.342380934,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_310_sorted.BAM,NA,NA,NA,-5.420748857,-0.610657639,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_311_sorted.BAM,NA,NA,NA,-14.50227466,-2.612979762,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_312_sorted.BAM,NA,NA,NA,-9.614339021,-3.210528917,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_313_sorted.BAM,NA,NA,NA,-7.502602724,-1.816224046,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_315_sorted.BAM,NA,NA,NA,-7.878091005,-6.401832647,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_316_sorted.BAM,NA,NA,NA,-4.845471529,3.085426741,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_317_sorted.BAM,NA,NA,NA,-2.516222147,8.834473543,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_318_sorted.BAM,NA,NA,NA,-12.95642963,9.274212771,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_321_sorted.BAM,NA,NA,NA,-10.47083774,9.673234873,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_322_sorted.BAM,NA,NA,NA,-7.545361665,-9.558101244,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_323_sorted.BAM,NA,NA,NA,-12.56464782,0.085663729,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_326_sorted.BAM,NA,NA,NA,-12.33116927,5.367431574,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_327_sorted.BAM,NA,NA,NA,-0.859586385,-12.5295468,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_328_sorted.BAM,NA,NA,NA,-0.733987478,-11.1774245,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_329_sorted.BAM,NA,NA,NA,-10.53823486,0.191911631,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_330_sorted.BAM,NA,NA,NA,-7.796461252,0.747139149,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_331_sorted.BAM,NA,NA,NA,-8.885817674,-7.975057668,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_333_sorted.BAM,NA,NA,NA,-7.575519708,-5.845087833,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_334_sorted.BAM,NA,NA,NA,-11.75229946,5.116473608,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_335_sorted.BAM,NA,NA,NA,-6.263751176,-9.909310407,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_337_sorted.BAM,NA,NA,NA,-5.681248335,7.12567132,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_338_sorted.BAM,NA,NA,NA,-10.5525209,-7.10091979,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_339_sorted.BAM,NA,NA,NA,-11.07401672,3.637995177,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_340_sorted.BAM,NA,NA,NA,-1.775282768,-10.93748958,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_341_sorted.BAM,NA,NA,NA,-15.23427501,11.60565846,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_342_sorted.BAM,NA,NA,NA,-7.302462724,8.126365595,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_343_sorted.BAM,NA,NA,NA,-7.434496072,-7.115051813,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_344_sorted.BAM,NA,NA,NA,-5.936144022,12.35245889,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_345_sorted.BAM,NA,NA,NA,-0.817020563,6.518239908,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_346_sorted.BAM,NA,NA,NA,2.129383894,-12.9975291,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_347_sorted.BAM,NA,NA,NA,-9.666554597,6.779711657,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_348_sorted.BAM,NA,NA,NA,-5.291589883,-8.193445749,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_349_sorted.BAM,NA,NA,NA,1.995684,-10.75888545,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_350_sorted.BAM,NA,NA,NA,-11.12686553,4.898678713,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_352_sorted.BAM,NA,NA,NA,-5.31361833,10.70177262,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_354_sorted.BAM,NA,NA,NA,-6.62182298,-4.280160613,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_355_sorted.BAM,NA,NA,NA,-13.59056964,0.047264986,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_356_sorted.BAM,NA,NA,NA,-6.511480478,-10.30249173,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_357_sorted.BAM,NA,NA,NA,-6.05441871,-10.3844505,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_358_sorted.BAM,NA,NA,NA,-11.98718181,-4.269300289,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_359_sorted.BAM,NA,NA,NA,-12.62767997,-1.342002339,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_362_sorted.BAM,NA,NA,NA,-5.253529695,-5.587959833,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_363_sorted.BAM,NA,NA,NA,-8.735159067,4.373861723,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_364_sorted.BAM,NA,NA,NA,-11.52399936,4.12462657,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_365_sorted.BAM,NA,NA,NA,-8.599171785,-6.394507952,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_366_sorted.BAM,NA,NA,NA,-13.76862064,-3.829286165,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_367_sorted.BAM,NA,NA,NA,-9.715655473,-2.621773578,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_369_sorted.BAM,NA,NA,NA,-4.96384683,1.598952704,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_370_sorted.BAM,NA,NA,NA,-6.595894483,-2.155583746,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_371_sorted.BAM,NA,NA,NA,-13.62690368,5.719121866,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_372_sorted.BAM,NA,NA,NA,-4.958198694,8.673013621,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_373_sorted.BAM,NA,NA,NA,-5.497164396,10.9088239,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_374_sorted.BAM,NA,NA,NA,-5.59870973,-9.799562998,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_375_sorted.BAM,NA,NA,NA,1.635464432,-10.79850966,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_376_sorted.BAM,NA,NA,NA,-6.399749902,2.795586996,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_377_sorted.BAM,NA,NA,NA,-4.251796392,-9.38320548,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_378_sorted.BAM,NA,NA,NA,-13.18014922,0.296274595,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_379_sorted.BAM,NA,NA,NA,-4.896531728,-6.40020997,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X33946_6_380_sorted.BAM,NA,NA,NA,-6.128587869,9.977173739,NA,NA,sporozoite,sporozoite (activated),NA,NA,mosquito
+X33946_6_382_sorted.BAM,NA,NA,NA,-8.400334505,-7.502883978,NA,NA,sporozoite,sporozoite (hemolymph),NA,NA,mosquito
+X33946_6_384_sorted.BAM,NA,NA,NA,-12.65541282,-2.225433565,NA,NA,sporozoite,sporozoite (salivary gland),NA,NA,mosquito
+X29913_7_100_sorted.bam,NA,NA,NA,17.63572201,-18.92397506,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_102_sorted.bam,NA,NA,NA,22.33119855,-18.59194953,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_107_sorted.bam,NA,NA,NA,16.10114464,-17.97980887,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_108_sorted.bam,NA,NA,NA,16.70542607,-17.76784713,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_109_sorted.bam,NA,NA,NA,19.17250142,-18.35190589,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_113_sorted.bam,NA,NA,NA,17.26545128,-20.04895789,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_115_sorted.bam,NA,NA,NA,18.07265362,-15.27184016,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_116_sorted.bam,NA,NA,NA,18.26646313,-17.43083198,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_118_sorted.bam,NA,NA,NA,18.93007359,-19.4680844,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_119_sorted.bam,NA,NA,NA,20.93963132,-11.91893775,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_120_sorted.bam,NA,NA,NA,19.05088505,-19.08227736,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_121_sorted.bam,NA,NA,NA,21.20452389,-17.12694652,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_126_sorted.bam,NA,NA,NA,18.85284123,-18.60382087,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_130_sorted.bam,NA,NA,NA,16.74508462,-17.88903338,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_132_sorted.bam,NA,NA,NA,16.99975667,-17.19100482,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_133_sorted.bam,NA,NA,NA,20.33877644,-12.46627719,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_134_sorted.bam,NA,NA,NA,18.27722439,-20.27558715,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_137_sorted.bam,NA,NA,NA,21.95262608,-15.92855269,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_143_sorted.bam,NA,NA,NA,15.47061715,-14.14550979,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_145_sorted.bam,NA,NA,NA,17.18512044,-19.0220719,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_149_sorted.bam,NA,NA,NA,18.4789742,-17.76019103,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_151_sorted.bam,NA,NA,NA,21.11741147,-18.75431258,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_155_sorted.bam,NA,NA,NA,18.83466038,-17.103427,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_157_sorted.bam,NA,NA,NA,19.80252347,-18.79670341,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_160_sorted.bam,NA,NA,NA,21.75326428,-16.91413981,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_165_sorted.bam,NA,NA,NA,16.57104478,-18.90204436,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_169_sorted.bam,NA,NA,NA,19.33950886,-13.36915118,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_173_sorted.bam,NA,NA,NA,21.69205365,-18.04891402,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_176_sorted.bam,NA,NA,NA,22.02273259,-17.42469508,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_178_sorted.bam,NA,NA,NA,16.0553616,-17.87432773,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_181_sorted.bam,NA,NA,NA,21.52650914,-18.93765075,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_182_sorted.bam,NA,NA,NA,17.72095952,-20.05936057,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_189_sorted.bam,NA,NA,NA,16.6456717,-11.33842761,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_193_sorted.bam,NA,NA,NA,17.56179127,-12.6432801,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_195_sorted.bam,NA,NA,NA,15.69616589,-10.90347201,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_199_sorted.bam,NA,NA,NA,19.76502499,-19.32723624,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_200_sorted.bam,NA,NA,NA,20.97492489,-19.23542411,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_202_sorted.bam,NA,NA,NA,15.48858819,-15.07336432,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_207_sorted.bam,NA,NA,NA,20.90614972,-11.95329577,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_211_sorted.bam,NA,NA,NA,19.58390507,-12.8164292,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_215_sorted.bam,NA,NA,NA,16.9724339,-11.63203723,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_216_sorted.bam,NA,NA,NA,19.6767529,-19.49961669,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_224_sorted.bam,NA,NA,NA,17.46818814,-19.89814765,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_225_sorted.bam,NA,NA,NA,18.65712819,-12.6176768,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_226_sorted.bam,NA,NA,NA,20.11031232,-12.25374896,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_228_sorted.bam,NA,NA,NA,22.61884961,-18.41527755,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_230_sorted.bam,NA,NA,NA,18.33229336,-16.27975375,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_234_sorted.bam,NA,NA,NA,20.23280034,-19.23579986,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_236_sorted.bam,NA,NA,NA,21.29440198,-16.65928752,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_241_sorted.bam,NA,NA,NA,20.78745732,-18.49435431,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_244_sorted.bam,NA,NA,NA,16.85116372,-15.79130656,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_245_sorted.bam,NA,NA,NA,18.4391602,-14.70141608,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_246_sorted.bam,NA,NA,NA,20.92247281,-17.0843621,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_249_sorted.bam,NA,NA,NA,18.04355321,-19.42289741,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_250_sorted.bam,NA,NA,NA,18.11226353,-13.33102424,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_251_sorted.bam,NA,NA,NA,16.56717286,-12.02677638,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_252_sorted.bam,NA,NA,NA,17.18828187,-19.25252158,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_253_sorted.bam,NA,NA,NA,22.28878674,-19.04624183,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_255_sorted.bam,NA,NA,NA,21.68578038,-19.35083014,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_262_sorted.bam,NA,NA,NA,18.22488103,-19.77453238,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_263_sorted.bam,NA,NA,NA,19.12953457,-19.27536399,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_265_sorted.bam,NA,NA,NA,19.39340291,-16.74874885,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_270_sorted.bam,NA,NA,NA,18.50614819,-20.11260421,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_274_sorted.bam,NA,NA,NA,17.74457631,-18.30353744,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_277_sorted.bam,NA,NA,NA,16.79861531,-11.91747004,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_278_sorted.bam,NA,NA,NA,19.84140095,-12.96576697,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_279_sorted.bam,NA,NA,NA,19.73115239,-12.56245524,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_281_sorted.bam,NA,NA,NA,21.81559834,-16.3430844,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_299_sorted.bam,NA,NA,NA,16.70435223,-18.80981452,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_2_sorted.bam,NA,NA,NA,21.55357251,-19.33362777,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_310_sorted.bam,NA,NA,NA,16.09163842,-16.76928622,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_311_sorted.bam,NA,NA,NA,16.21259389,-12.31935412,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_315_sorted.bam,NA,NA,NA,14.05269036,-10.07248361,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_318_sorted.bam,NA,NA,NA,13.98883805,-9.668237276,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_321_sorted.bam,NA,NA,NA,15.70197377,-12.04600436,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_324_sorted.bam,NA,NA,NA,14.18850121,-10.45264346,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_328_sorted.bam,NA,NA,NA,15.01627621,-12.13312442,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_334_sorted.bam,NA,NA,NA,20.5427216,-12.16225631,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_335_sorted.bam,NA,NA,NA,22.08740697,-15.59810645,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_33_sorted.bam,NA,NA,NA,21.53223881,-18.20901973,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_342_sorted.bam,NA,NA,NA,15.94278893,-12.52177817,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_343_sorted.bam,NA,NA,NA,14.70077595,-11.14172561,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_346_sorted.bam,NA,NA,NA,20.23489461,-11.74588305,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_348_sorted.bam,NA,NA,NA,15.6653336,-14.88610656,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_351_sorted.bam,NA,NA,NA,14.2197617,-9.507140226,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_357_sorted.bam,NA,NA,NA,14.51297078,-9.779337473,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_359_sorted.bam,NA,NA,NA,17.20051369,-11.60754115,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_360_sorted.bam,NA,NA,NA,15.41069493,-14.95776278,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_361_sorted.bam,NA,NA,NA,15.22043404,-12.29942996,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_362_sorted.bam,NA,NA,NA,14.57518468,-11.18841178,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_363_sorted.bam,NA,NA,NA,14.34858307,-12.07924087,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_366_sorted.bam,NA,NA,NA,16.74709401,-18.00531871,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_368_sorted.bam,NA,NA,NA,21.68266377,-18.37784488,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_369_sorted.bam,NA,NA,NA,18.0767487,-15.08215148,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_370_sorted.bam,NA,NA,NA,22.33187756,-17.14624125,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_371_sorted.bam,NA,NA,NA,18.02847752,-15.34616763,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_372_sorted.bam,NA,NA,NA,14.68976102,-13.04234797,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_376_sorted.bam,NA,NA,NA,15.03555188,-14.54082973,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_377_sorted.bam,NA,NA,NA,15.42888913,-12.75445849,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_37_sorted.bam,NA,NA,NA,18.52726063,-15.41310222,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_383_sorted.bam,NA,NA,NA,14.46772751,-10.63104827,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_50_sorted.bam,NA,NA,NA,17.05720219,-17.074215,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_5_sorted.bam,NA,NA,NA,21.00951085,-12.6209336,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_63_sorted.bam,NA,NA,NA,21.59811864,-18.48209578,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_67_sorted.bam,NA,NA,NA,19.56523404,-19.64726073,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_70_sorted.bam,NA,NA,NA,22.17994389,-17.66159446,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_71_sorted.bam,NA,NA,NA,17.23146233,-18.15830142,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_81_sorted.bam,NA,NA,NA,18.65063748,-17.47824771,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_82_sorted.bam,NA,NA,NA,21.29868779,-18.67172629,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_85_sorted.bam,NA,NA,NA,22.30970654,-16.97481067,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_87_sorted.bam,NA,NA,NA,18.82385144,-19.84910209,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X29913_7_91_sorted.bam,NA,NA,NA,19.05830655,-19.49172408,NA,NA,ookinete,ookinete,NA,NA,mosquito
+X31032_1_102_sorted.bam,NA,NA,NA,15.20474515,0.180852347,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_106_sorted.bam,NA,NA,NA,22.76496968,-3.982516832,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_10_sorted.bam,NA,NA,NA,25.23202786,-2.797699339,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_110_sorted.bam,NA,NA,NA,16.21456418,0.140004091,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_115_sorted.bam,NA,NA,NA,24.59240994,-3.066006965,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_119_sorted.bam,NA,NA,NA,25.7933968,-2.708653934,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_123_sorted.bam,NA,NA,NA,15.65425667,0.895085507,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_131_sorted.bam,NA,NA,NA,17.03225407,-0.0757168,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_135_sorted.bam,NA,NA,NA,26.07814297,-4.22871787,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_139_sorted.bam,NA,NA,NA,24.11445126,-2.331098854,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_144_sorted.bam,NA,NA,NA,22.48671422,-3.411300428,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_148_sorted.bam,NA,NA,NA,23.66451916,-2.962105222,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_14_sorted.bam,NA,NA,NA,24.09493527,-2.112722761,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_152_sorted.bam,NA,NA,NA,23.69033703,-3.400916881,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_156_sorted.bam,NA,NA,NA,23.98855481,-3.644637532,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_160_sorted.bam,NA,NA,NA,16.99939809,0.504398995,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_164_sorted.bam,NA,NA,NA,26.90182576,-3.770691819,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_170_sorted.bam,NA,NA,NA,24.48521504,-1.875577338,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_173_sorted.bam,NA,NA,NA,17.06663117,-0.129344291,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_177_sorted.bam,NA,NA,NA,25.42752537,-3.179360695,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_181_sorted.bam,NA,NA,NA,25.32117161,-4.955649681,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_185_sorted.bam,NA,NA,NA,26.52721867,-3.886079616,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_189_sorted.bam,NA,NA,NA,27.10589299,-3.006031043,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_18_sorted.bam,NA,NA,NA,26.14332852,-2.280143819,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_194_sorted.bam,NA,NA,NA,15.73275265,0.314346247,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_199_sorted.bam,NA,NA,NA,15.59657654,-0.42640502,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_202_sorted.bam,NA,NA,NA,24.34555897,-5.068719454,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_206_sorted.bam,NA,NA,NA,20.37051663,-2.115723408,NA,NA,gametocyte,gametocyte (developing),NA,NA,human
+X31032_1_210_sorted.bam,NA,NA,NA,26.2981728,-4.222203679,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_214_sorted.bam,NA,NA,NA,24.84092793,-3.70809216,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_218_sorted.bam,NA,NA,NA,22.52190098,-4.019821472,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_223_sorted.bam,NA,NA,NA,19.07726178,-1.537258632,NA,NA,gametocyte,gametocyte (developing),NA,NA,human
+X31032_1_228_sorted.bam,NA,NA,NA,16.2987555,-1.173462457,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_236_sorted.bam,NA,NA,NA,26.24127659,-3.626487322,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_239_sorted.bam,NA,NA,NA,23.15025601,-4.874959774,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_243_sorted.bam,NA,NA,NA,17.55547795,0.141726189,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_247_sorted.bam,NA,NA,NA,16.76076588,-1.000724978,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_249_sorted.bam,NA,NA,NA,24.98473439,-3.176636882,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_253_sorted.bam,NA,NA,NA,18.88911519,-1.26817245,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_257_sorted.bam,NA,NA,NA,15.70859704,0.34058898,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_262_sorted.bam,NA,NA,NA,16.00020871,-0.48451621,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_265_sorted.bam,NA,NA,NA,23.03168378,-3.033437795,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_269_sorted.bam,NA,NA,NA,17.59607777,0.132071905,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_26_sorted.bam,NA,NA,NA,16.77925,0.49684351,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_273_sorted.bam,NA,NA,NA,24.25253949,-1.984992928,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_278_sorted.bam,NA,NA,NA,17.91950116,-0.398763485,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_282_sorted.bam,NA,NA,NA,24.55792699,-3.700297422,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_291_sorted.bam,NA,NA,NA,16.14823708,0.84293025,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_294_sorted.bam,NA,NA,NA,25.63463101,-3.338953502,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_299_sorted.bam,NA,NA,NA,17.83836255,-0.721671052,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_302_sorted.bam,NA,NA,NA,15.8252171,-0.344297476,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_307_sorted.bam,NA,NA,NA,24.95464406,-2.529054135,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_311_sorted.bam,NA,NA,NA,17.03048215,0.807176762,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_315_sorted.bam,NA,NA,NA,25.13097653,-4.334180302,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_319_sorted.bam,NA,NA,NA,19.58135113,-1.779286272,NA,NA,gametocyte,gametocyte (developing),NA,NA,human
+X31032_1_31_sorted.bam,NA,NA,NA,17.54258237,0.416121178,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_323_sorted.bam,NA,NA,NA,24.59323201,-4.362575836,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_328_sorted.bam,NA,NA,NA,25.68628964,-3.982859678,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_331_sorted.bam,NA,NA,NA,24.3595303,-3.108182616,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_333_sorted.bam,NA,NA,NA,17.72960553,0.641005688,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_337_sorted.bam,NA,NA,NA,23.68253598,-4.478608675,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_341_sorted.bam,NA,NA,NA,16.90337643,0.52613204,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_345_sorted.bam,NA,NA,NA,15.7960833,0.551610165,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_349_sorted.bam,NA,NA,NA,26.14545331,-4.482503242,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_354_sorted.bam,NA,NA,NA,24.12737927,-4.87776596,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_357_sorted.bam,NA,NA,NA,16.58837113,0.025614434,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_35_sorted.bam,NA,NA,NA,24.39199147,-5.034998007,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_363_sorted.bam,NA,NA,NA,24.79800877,-2.920992441,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_366_sorted.bam,NA,NA,NA,21.92474255,-2.729592837,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_370_sorted.bam,NA,NA,NA,25.13051877,-2.262217156,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_374_sorted.bam,NA,NA,NA,25.7316216,-2.043569005,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_378_sorted.bam,NA,NA,NA,26.75388798,-3.200425751,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_39_sorted.bam,NA,NA,NA,16.54853043,0.43045228,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_43_sorted.bam,NA,NA,NA,23.53084645,-2.65250463,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_47_sorted.bam,NA,NA,NA,17.15384278,0.340776139,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_51_sorted.bam,NA,NA,NA,25.73939786,-2.909478582,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_55_sorted.bam,NA,NA,NA,26.44378171,-2.937435395,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_60_sorted.bam,NA,NA,NA,16.06691537,-0.453232832,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_68_sorted.bam,NA,NA,NA,26.68946919,-4.173890657,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_6_sorted.bam,NA,NA,NA,16.15779481,-1.149843044,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_72_sorted.bam,NA,NA,NA,17.25984177,0.806318455,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_76_sorted.bam,NA,NA,NA,25.48578534,-3.624354191,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_80_sorted.bam,NA,NA,NA,17.4048985,-0.562240786,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_84_sorted.bam,NA,NA,NA,25.13137326,-1.869025178,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_86_sorted.bam,NA,NA,NA,15.63829884,1.148085766,NA,NA,gametocyte,gametocyte (male),NA,NA,human
+X31032_1_90_sorted.bam,NA,NA,NA,25.91177258,-2.762537308,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_94_sorted.bam,NA,NA,NA,26.53474316,-3.126633115,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+X31032_1_98_sorted.bam,NA,NA,NA,25.3986443,-4.205922909,NA,NA,gametocyte,gametocyte (female),NA,NA,human
+PfAsex.61,NA,NA,NA,17.39776311,10.65619748,NA,NA,ring,ring,NA,NA,human
+PfAsex.62,NA,NA,NA,16.47175297,7.390135699,NA,NA,ring,ring,NA,NA,human
+PfAsex.63,NA,NA,NA,7.856885287,4.515144758,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.64,NA,NA,NA,7.995445582,15.03695291,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.65,NA,NA,NA,13.13137898,17.45751184,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.66,NA,NA,NA,16.10250077,9.495531016,NA,NA,ring,ring,NA,NA,human
+PfAsex.67,NA,NA,NA,8.085461947,11.57945531,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.68,NA,NA,NA,15.36172471,18.47089761,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.69,NA,NA,NA,16.95144734,8.572495394,NA,NA,ring,ring,NA,NA,human
+PfAsex.71,NA,NA,NA,11.60730347,18.00984757,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.72,NA,NA,NA,7.930048796,6.209937029,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.73,NA,NA,NA,20.0085648,11.82141583,NA,NA,ring,ring,NA,NA,human
+PfAsex.74,NA,NA,NA,17.50762066,15.16809457,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.75,NA,NA,NA,19.10803113,13.3251838,NA,NA,ring,ring,NA,NA,human
+PfAsex.76,NA,NA,NA,17.32646641,17.28522485,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.77,NA,NA,NA,15.46998295,5.71737855,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.79,NA,NA,NA,18.27980885,12.75857442,NA,NA,ring,ring,NA,NA,human
+PfAsex.610,NA,NA,NA,8.623468253,14.21372407,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.611,NA,NA,NA,16.2459248,11.1818847,NA,NA,ring,ring,NA,NA,human
+PfAsex.612,NA,NA,NA,15.17843136,11.50732701,NA,NA,ring,ring,NA,NA,human
+PfAsex.613,NA,NA,NA,8.287484976,12.09300321,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.614,NA,NA,NA,9.802563521,16.13621896,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.615,NA,NA,NA,16.41427216,10.75440114,NA,NA,ring,ring,NA,NA,human
+PfAsex.616,NA,NA,NA,17.28673157,6.768965655,NA,NA,ring,ring,NA,NA,human
+PfAsex.617,NA,NA,NA,16.98566422,17.36355393,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.618,NA,NA,NA,16.42020116,6.186873369,NA,NA,ring,ring,NA,NA,human
+PfAsex.620,NA,NA,NA,15.95359788,11.60636895,NA,NA,ring,ring,NA,NA,human
+PfAsex.621,NA,NA,NA,15.18469987,16.1166324,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.622,NA,NA,NA,17.42473874,11.09840863,NA,NA,ring,ring,NA,NA,human
+PfAsex.623,NA,NA,NA,8.434822413,13.21856111,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.624,NA,NA,NA,7.789244505,5.140499525,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.625,NA,NA,NA,7.871775481,6.549817972,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.626,NA,NA,NA,12.33062253,17.24352448,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.628,NA,NA,NA,15.82529244,15.01820367,NA,NA,ring,ring,NA,NA,human
+PfAsex.629,NA,NA,NA,16.64355454,15.24520295,NA,NA,ring,ring,NA,NA,human
+PfAsex.630,NA,NA,NA,17.66070637,16.11005586,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.631,NA,NA,NA,9.963291975,16.62583726,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.632,NA,NA,NA,8.069908949,9.277232104,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.633,NA,NA,NA,16.1031979,5.614981585,NA,NA,ring,ring,NA,NA,human
+PfAsex.634,NA,NA,NA,7.890053126,14.48338311,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.635,NA,NA,NA,16.30568394,11.81055348,NA,NA,ring,ring,NA,NA,human
+PfAsex.636,NA,NA,NA,16.83401665,14.17614739,NA,NA,ring,ring,NA,NA,human
+PfAsex.637,NA,NA,NA,16.06910977,16.06729882,NA,NA,ring,ring,NA,NA,human
+PfAsex.638,NA,NA,NA,17.88053784,16.40461724,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.639,NA,NA,NA,8.850746485,15.00947373,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.640,NA,NA,NA,17.68234334,12.49892228,NA,NA,ring,ring,NA,NA,human
+PfAsex.641,NA,NA,NA,17.0736073,6.736120157,NA,NA,ring,ring,NA,NA,human
+PfAsex.642,NA,NA,NA,15.56652245,12.06640332,NA,NA,ring,ring,NA,NA,human
+PfAsex.643,NA,NA,NA,15.95012555,8.815703326,NA,NA,ring,ring,NA,NA,human
+PfAsex.644,NA,NA,NA,17.60609707,15.83102792,NA,NA,ring,ring,NA,NA,human
+PfAsex.645,NA,NA,NA,13.47570786,19.66305917,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.646,NA,NA,NA,17.63106999,7.768984728,NA,NA,ring,ring,NA,NA,human
+PfAsex.647,NA,NA,NA,7.954529139,6.508809023,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.648,NA,NA,NA,16.59409985,18.18297761,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.649,NA,NA,NA,15.3949574,13.27941697,NA,NA,ring,ring,NA,NA,human
+PfAsex.650,NA,NA,NA,15.26369366,10.70646947,NA,NA,ring,ring,NA,NA,human
+PfAsex.651,NA,NA,NA,15.72306809,12.49802869,NA,NA,ring,ring,NA,NA,human
+PfAsex.652,NA,NA,NA,15.1942614,15.91092866,NA,NA,ring,ring,NA,NA,human
+PfAsex.653,NA,NA,NA,8.987782809,15.67086404,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.654,NA,NA,NA,17.67336163,15.69665902,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.655,NA,NA,NA,16.12679371,8.921566897,NA,NA,ring,ring,NA,NA,human
+PfAsex.656,NA,NA,NA,7.882812354,4.944360667,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.657,NA,NA,NA,8.357539507,12.7608785,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.658,NA,NA,NA,8.118078562,7.983570986,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.659,NA,NA,NA,7.683139655,4.453140669,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.660,NA,NA,NA,16.48870835,6.242515497,NA,NA,ring,ring,NA,NA,human
+PfAsex.661,NA,NA,NA,15.97942338,13.96525567,NA,NA,ring,ring,NA,NA,human
+PfAsex.662,NA,NA,NA,15.61571965,16.25188058,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.663,NA,NA,NA,16.66026101,14.92556947,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.664,NA,NA,NA,15.89759717,18.36723512,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.665,NA,NA,NA,7.723913523,6.084086352,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.666,NA,NA,NA,16.15574727,9.730207377,NA,NA,ring,ring,NA,NA,human
+PfAsex.667,NA,NA,NA,15.38739857,12.27573865,NA,NA,ring,ring,NA,NA,human
+PfAsex.668,NA,NA,NA,16.03600011,11.28290265,NA,NA,ring,ring,NA,NA,human
+PfAsex.669,NA,NA,NA,8.009114596,7.471522265,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.670,NA,NA,NA,17.13026795,9.334175997,NA,NA,ring,ring,NA,NA,human
+PfAsex.672,NA,NA,NA,8.268053385,11.80523675,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.673,NA,NA,NA,14.87486252,17.72954362,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.674,NA,NA,NA,16.79024396,5.927237444,NA,NA,ring,ring,NA,NA,human
+PfAsex.676,NA,NA,NA,15.4815062,10.85645574,NA,NA,ring,ring,NA,NA,human
+PfAsex.677,NA,NA,NA,17.06192574,11.33752912,NA,NA,ring,ring,NA,NA,human
+PfAsex.678,NA,NA,NA,8.049824568,5.289102488,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.679,NA,NA,NA,13.58107171,19.91400903,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.680,NA,NA,NA,13.32190117,19.51845353,NA,NA,ring,ring,NA,NA,human
+PfAsex.681,NA,NA,NA,20.11300168,10.33400338,NA,NA,ring,ring,NA,NA,human
+PfAsex.682,NA,NA,NA,19.9144238,9.996498995,NA,NA,ring,ring,NA,NA,human
+PfAsex.683,NA,NA,NA,16.20965371,11.29628938,NA,NA,ring,ring,NA,NA,human
+PfAsex.684,NA,NA,NA,20.21202359,10.7213487,NA,NA,ring,ring,NA,NA,human
+PfAsex.686,NA,NA,NA,9.401349875,14.57914918,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.687,NA,NA,NA,13.65713963,19.46007531,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.688,NA,NA,NA,9.222927424,14.28918641,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.689,NA,NA,NA,15.45574174,14.27080339,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.690,NA,NA,NA,17.04109273,15.51708024,NA,NA,ring,ring,NA,NA,human
+PfAsex.691,NA,NA,NA,8.725502345,13.46820729,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.692,NA,NA,NA,14.49561867,17.30508988,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.694,NA,NA,NA,7.853768679,7.035035067,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.695,NA,NA,NA,18.04300007,13.87390321,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.696,NA,NA,NA,8.91530976,15.59436982,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.710,NA,NA,NA,19.93023381,12.73789399,NA,NA,ring,ring,NA,NA,human
+PfAsex.711,NA,NA,NA,16.65691075,8.66725152,NA,NA,ring,ring,NA,NA,human
+PfAsex.712,NA,NA,NA,16.96655354,17.47112458,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.713,NA,NA,NA,17.23324856,14.89403909,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.714,NA,NA,NA,12.45352921,18.23394197,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.715,NA,NA,NA,7.967555853,11.44367784,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.717,NA,NA,NA,7.592193457,4.327239924,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.718,NA,NA,NA,17.35710988,9.677429133,NA,NA,ring,ring,NA,NA,human
+PfAsex.719,NA,NA,NA,7.788529726,5.710567408,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.720,NA,NA,NA,18.23225484,15.24552339,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.722,NA,NA,NA,13.92793545,18.29388612,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.723,NA,NA,NA,16.15399155,17.13364404,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.725,NA,NA,NA,15.72205624,17.84642594,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.726,NA,NA,NA,17.91384015,11.41797441,NA,NA,ring,ring,NA,NA,human
+PfAsex.727,NA,NA,NA,15.50007138,17.70637124,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.728,NA,NA,NA,17.18267522,10.4773969,NA,NA,ring,ring,NA,NA,human
+PfAsex.729,NA,NA,NA,7.623449179,6.625651293,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.730,NA,NA,NA,19.2793015,14.07275575,NA,NA,ring,ring,NA,NA,human
+PfAsex.731,NA,NA,NA,18.39159855,14.99073976,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.733,NA,NA,NA,19.99104581,12.42221921,NA,NA,ring,ring,NA,NA,human
+PfAsex.734,NA,NA,NA,16.85599408,7.378130846,NA,NA,ring,ring,NA,NA,human
+PfAsex.736,NA,NA,NA,12.41464219,18.48542779,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.737,NA,NA,NA,18.22037015,13.85444825,NA,NA,ring,ring,NA,NA,human
+PfAsex.738,NA,NA,NA,10.59017357,16.36163133,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.739,NA,NA,NA,11.96858773,16.90979569,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.741,NA,NA,NA,12.19489178,18.60034555,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.742,NA,NA,NA,17.76669392,13.04624837,NA,NA,ring,ring,NA,NA,human
+PfAsex.744,NA,NA,NA,15.52852139,17.10480683,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.745,NA,NA,NA,9.613725516,15.53106683,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.746,NA,NA,NA,16.84078202,12.57355874,NA,NA,ring,ring,NA,NA,human
+PfAsex.747,NA,NA,NA,17.27876076,15.76186173,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.749,NA,NA,NA,16.96364197,11.90457242,NA,NA,ring,ring,NA,NA,human
+PfAsex.750,NA,NA,NA,8.904315325,13.8724727,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.751,NA,NA,NA,14.43972096,18.85565179,NA,NA,ring,ring,NA,NA,human
+PfAsex.752,NA,NA,NA,8.063986632,12.54930394,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.753,NA,NA,NA,17.3017529,13.77464288,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.754,NA,NA,NA,17.90212903,8.907733851,NA,NA,ring,ring,NA,NA,human
+PfAsex.755,NA,NA,NA,18.03268704,11.05331319,NA,NA,ring,ring,NA,NA,human
+PfAsex.757,NA,NA,NA,16.21300587,17.47531693,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.758,NA,NA,NA,16.92738614,16.86495393,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.759,NA,NA,NA,9.558424803,16.05579942,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.760,NA,NA,NA,10.24492917,16.09722322,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.761,NA,NA,NA,8.092488142,11.18984693,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.762,NA,NA,NA,12.23674473,18.41322892,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.763,NA,NA,NA,16.84594712,17.94214051,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.765,NA,NA,NA,18.23562703,12.15959352,NA,NA,ring,ring,NA,NA,human
+PfAsex.766,NA,NA,NA,20.34271702,12.1427955,NA,NA,ring,ring,NA,NA,human
+PfAsex.767,NA,NA,NA,9.391121718,15.64369767,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.768,NA,NA,NA,18.1242989,14.89726632,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.769,NA,NA,NA,8.768176409,14.44453233,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.770,NA,NA,NA,8.144792887,12.05183118,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.771,NA,NA,NA,17.34551129,10.10518544,NA,NA,ring,ring,NA,NA,human
+PfAsex.773,NA,NA,NA,8.413573595,15.32934754,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.774,NA,NA,NA,16.65706048,9.348771029,NA,NA,ring,ring,NA,NA,human
+PfAsex.775,NA,NA,NA,8.006746146,8.624414377,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.776,NA,NA,NA,14.64299855,19.40607636,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.777,NA,NA,NA,17.14522347,17.86893456,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.778,NA,NA,NA,16.34579835,13.48747342,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.779,NA,NA,NA,20.2832726,12.22094243,NA,NA,ring,ring,NA,NA,human
+PfAsex.781,NA,NA,NA,20.14907536,11.69875424,NA,NA,ring,ring,NA,NA,human
+PfAsex.782,NA,NA,NA,9.16973147,14.51410096,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.783,NA,NA,NA,14.22423348,18.1412658,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.784,NA,NA,NA,19.53386387,11.65754312,NA,NA,ring,ring,NA,NA,human
+PfAsex.785,NA,NA,NA,17.8898972,13.49364465,NA,NA,ring,ring,NA,NA,human
+PfAsex.786,NA,NA,NA,12.93794236,18.6529712,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.787,NA,NA,NA,18.08797154,16.10560029,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.789,NA,NA,NA,17.41986355,8.832172327,NA,NA,ring,ring,NA,NA,human
+PfAsex.790,NA,NA,NA,8.044890734,8.759951525,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.791,NA,NA,NA,16.64401803,17.15409081,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.792,NA,NA,NA,7.855839583,7.629091196,NA,NA,schizont,schizont,NA,NA,human
+PfAsex.793,NA,NA,NA,16.17676434,17.82693666,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.794,NA,NA,NA,18.09398732,14.42675775,NA,NA,trophozoite,trophozoite,NA,NA,human
+PfAsex.795,NA,NA,NA,18.07235608,15.28442185,NA,NA,trophozoite,trophozoite,NA,NA,human
